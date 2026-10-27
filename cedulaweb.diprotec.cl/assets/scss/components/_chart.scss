@@ -1,0 +1,115 @@
+/*------ Charts ------*/
+
+.chart-visitors {
+	min-height: 18rem;
+}
+.chart-tasks {
+	height: 15rem;
+}
+.chart-donut, .chart-pie {
+	height: 21rem;
+}
+.chartsh {
+	height: 16rem;
+}
+.chartwidget {
+	height: 17rem;
+}
+.map, .chart {
+	position: relative;
+	
+}
+.map-square, .chart-square {
+	padding-top: 100%;
+}
+.map-content, .chart-content {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+.map-header {
+	margin-bottom: 1.5rem;
+	height: 15rem;
+	position: relative;
+	margin-bottom: -1.5rem;
+	&:before {
+		content: '';
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		height: 10rem;
+		background: linear-gradient(to bottom, rgba(245, 247, 251, 0) 5%, #f6f6f6 95%);
+		pointer-events: none;
+	}
+}
+.map-header-layer {
+	height: 100%;
+}
+.map-static {
+	height: 120px;
+	width: 100%;
+	max-width: 640px;
+	background-position: center center;
+	background-size: 640px 120px;
+}
+.chart-circle {
+	display: block;
+	height: 8rem;
+	width: 8rem;
+	position: relative;
+	margin: 0 auto;
+	canvas {
+		margin: 0 auto;
+		display: block;
+		max-width: 100%;
+		max-height: 100%;
+	}
+}
+.chart-circle-xs {
+	height: 2.5rem;
+	width: 2.5rem;
+	font-size: .8rem;
+}
+.chart-circle-sm {
+	height: 4rem;
+	width: 4rem;
+	font-size: .8rem;
+}
+.chart-circle-lg {
+	height: 10rem;
+	width: 10rem;
+	font-size: .8rem;
+}
+.chart-circle-value {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	bottom: 0;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	line-height: 1;
+	small {
+		display: block;
+		color: #9aa0ac;
+		font-size: 0.9375rem;
+	}
+}
+.amcharts-chart-div a, .canvasjs-chart-container a {
+	display: none !important;
+}
+.amChartsLegend.amcharts-legend-div {
+	display: none;
+}
+/*------ Charts ------*/

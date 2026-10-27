@@ -1,0 +1,533 @@
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.csproj.AssemblyReference.cache
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.csproj.CoreCompileInputs.cache
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.dll.config
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.pdb
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.exe
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.exe.config
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.rsp
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.exe
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.exe.config
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.rsp
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.AppContext.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Console.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.Compression.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Net.Http.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Net.Sockets.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.ValueTuple.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XPath.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.exe
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.exe.config
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.rsp
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\VBCSCompiler.exe
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\NLog.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Newtonsoft.Json.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MySql.Data.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\ZstdSharp.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\BouncyCastle.Cryptography.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Memory.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Buffers.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Pipelines.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Hash.xxHash.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Numerics.Vectors.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Modelo.pdb
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Negocio.pdb
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Negocio.dll.config
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\NLog.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.pdb
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.dll.config
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Newtonsoft.Json.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MySql.Data.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.pdb
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\BouncyCastle.Cryptography.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Memory.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Buffers.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Pipelines.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Hash.xxHash.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Numerics.Vectors.xml
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.csproj.CopyComplete
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.dll
+C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.pdb
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.dll.config
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.pdb
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.exe
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.exe.config
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.rsp
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.exe
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.exe.config
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.rsp
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.AppContext.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Console.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.Compression.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Net.Http.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.ValueTuple.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.exe
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.exe.config
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.rsp
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\VBCSCompiler.exe
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\BouncyCastle.Cryptography.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\ExtendedNumerics.BigDecimal.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MathNet.Numerics.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Modelo.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Negocio.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\QRCoder.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Buffers.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Hashing.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Memory.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Numerics.Vectors.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ServiceModel.Syndication.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ValueTuple.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Otp.NET.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\NLog.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Newtonsoft.Json.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.Cryptography.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Json.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Encodings.Web.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MySql.Data.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Formats.Asn1.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\ZstdSharp.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Pipelines.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Hash.xxHash.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Modelo.pdb
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Modelo.dll.config
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Negocio.pdb
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Negocio.dll.config
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\BouncyCastle.Cryptography.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\ExtendedNumerics.BigDecimal.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.pdb
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MathNet.Numerics.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Buffers.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Hashing.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Memory.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Numerics.Vectors.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ServiceModel.Syndication.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ValueTuple.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\QRCoder.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\NLog.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Newtonsoft.Json.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.pdb
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.dll.config
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.Cryptography.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Json.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Encodings.Web.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MySql.Data.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Formats.Asn1.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Pipelines.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Hash.xxHash.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.csproj.AssemblyReference.cache
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.csproj.CoreCompileInputs.cache
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.csproj.CopyComplete
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.pdb
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\EPPlus.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\EPPlus.Interfaces.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ComponentModel.Annotations.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Security.Cryptography.Xml.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\EPPlus.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Security.Cryptography.Xml.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.dll.config
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.pdb
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.exe
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.exe.config
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.rsp
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.exe
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.exe.config
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.rsp
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.AppContext.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Console.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.Compression.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Net.Http.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Net.Sockets.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.ValueTuple.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XPath.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.exe
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.exe.config
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.rsp
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\VBCSCompiler.exe
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\BouncyCastle.Cryptography.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\EPPlus.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\EPPlus.Interfaces.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\ExtendedNumerics.BigDecimal.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MathNet.Numerics.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Modelo.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Negocio.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\QRCoder.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Buffers.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ComponentModel.Annotations.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Hashing.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Memory.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Numerics.Vectors.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Security.Cryptography.Xml.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ServiceModel.Syndication.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ValueTuple.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Otp.NET.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\NLog.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Newtonsoft.Json.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.Cryptography.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Json.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Encodings.Web.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MySql.Data.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Formats.Asn1.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\ZstdSharp.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Pipelines.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Hash.xxHash.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Modelo.pdb
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Modelo.dll.config
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Negocio.pdb
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Negocio.dll.config
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\BouncyCastle.Cryptography.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\EPPlus.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\ExtendedNumerics.BigDecimal.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.pdb
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MathNet.Numerics.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Buffers.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Hashing.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Memory.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Numerics.Vectors.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Security.Cryptography.Xml.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ServiceModel.Syndication.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ValueTuple.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\QRCoder.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\NLog.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Newtonsoft.Json.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.pdb
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.dll.config
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.Cryptography.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Json.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Encodings.Web.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MySql.Data.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Formats.Asn1.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Pipelines.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Hash.xxHash.xml
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.csproj.CoreCompileInputs.cache
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.csproj.CopyComplete
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.dll
+C:\Users\csalazar\Desktop\Descargas\Diprotec\website\esencial\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.pdb
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.dll.config
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\cedulaweb.diprotec.cl.pdb
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.exe
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.exe.config
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csc.rsp
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.exe
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.exe.config
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\csi.rsp
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.AppContext.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Console.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.Compression.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Net.Http.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.ValueTuple.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.exe
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.exe.config
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\vbc.rsp
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\VBCSCompiler.exe
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\BouncyCastle.Cryptography.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\EPPlus.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\EPPlus.Interfaces.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\ExtendedNumerics.BigDecimal.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MathNet.Numerics.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Modelo.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Negocio.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\QRCoder.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Buffers.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ComponentModel.Annotations.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Hashing.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Memory.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Numerics.Vectors.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Security.Cryptography.Xml.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ServiceModel.Syndication.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Otp.NET.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\NLog.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Newtonsoft.Json.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.Cryptography.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Json.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Encodings.Web.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MySql.Data.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Formats.Asn1.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\ZstdSharp.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Pipelines.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Hash.xxHash.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Modelo.pdb
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Modelo.dll.config
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Negocio.pdb
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Negocio.dll.config
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\BouncyCastle.Cryptography.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\EPPlus.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\ExtendedNumerics.BigDecimal.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.pdb
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Google.Protobuf.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MathNet.Numerics.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Buffers.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Hashing.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Memory.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Numerics.Vectors.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Security.Cryptography.Xml.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.ServiceModel.Syndication.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\QRCoder.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\NLog.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Newtonsoft.Json.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.pdb
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Datos.dll.config
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.Cryptography.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Json.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Text.Encodings.Web.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\MySql.Data.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.Formats.Asn1.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Compression.LZ4.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\System.IO.Pipelines.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\bin\K4os.Hash.xxHash.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.csproj.AssemblyReference.cache
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.csproj.CoreCompileInputs.cache
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.csproj.CopyComplete
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\cedulaweb.diprotec.cl\obj\Debug\cedulaweb.diprotec.cl.pdb

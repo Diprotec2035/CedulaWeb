@@ -1,0 +1,59 @@
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\Modelo.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\ExtendedNumerics.BigDecimal.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\Google.Protobuf.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\MathNet.Numerics.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Buffers.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.IO.Hashing.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Memory.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.ValueTuple.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\ExtendedNumerics.BigDecimal.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\Google.Protobuf.pdb
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\Google.Protobuf.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\MathNet.Numerics.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Buffers.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.IO.Hashing.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Memory.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.ValueTuple.xml
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\obj\Debug\Modelo.dll
+C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Modelo\obj\Debug\Modelo.pdb
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\Modelo.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\ExtendedNumerics.BigDecimal.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\Google.Protobuf.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\MathNet.Numerics.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Buffers.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.IO.Hashing.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Memory.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\ExtendedNumerics.BigDecimal.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\Google.Protobuf.pdb
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\Google.Protobuf.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\MathNet.Numerics.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Buffers.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.IO.Hashing.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Memory.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\obj\Debug\Modelo.dll
+C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Modelo\obj\Debug\Modelo.pdb

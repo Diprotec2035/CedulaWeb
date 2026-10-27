@@ -1,0 +1,83 @@
+2026-05-29 11:41:59.6906|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModuloUsuario': 'Unknown column 'CA.CAT_VIGENTE' in 'where clause''|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CA.CAT_VIGENTE' in 'where clause'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModuloUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 31
+2026-05-29 11:47:26.2193|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetCategoriaUsuario': 'Could not find specified column in results: CAT_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: CAT_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Catewgoria.CategoriaDatos.GetCategoriaUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Catewgoria\CategoriaDatos.cs:línea 93
+2026-05-29 11:47:47.4375|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModuloUsuario': 'Unknown column 'CA.CAT_VIGENTE' in 'where clause''|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CA.CAT_VIGENTE' in 'where clause'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModuloUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 31
+2026-05-29 11:50:13.2536|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetCategoriaUsuario': 'Could not find specified column in results: CAT_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: CAT_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Catewgoria.CategoriaDatos.GetCategoriaUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Catewgoria\CategoriaDatos.cs:línea 93
+2026-05-29 11:50:13.5364|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModuloUsuario': 'Unknown column 'CA.CAT_VIGENTE' in 'where clause''|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CA.CAT_VIGENTE' in 'where clause'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModuloUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 31
+2026-05-29 11:50:48.8775|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetCategoriaUsuario': 'Could not find specified column in results: CAT_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: CAT_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Catewgoria.CategoriaDatos.GetCategoriaUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Catewgoria\CategoriaDatos.cs:línea 93
+2026-05-29 11:50:49.8203|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModuloUsuario': 'Unknown column 'CA.CAT_VIGENTE' in 'where clause''|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CA.CAT_VIGENTE' in 'where clause'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModuloUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 31
+2026-05-29 11:53:16.7350|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetCategoriaUsuario': 'Could not find specified column in results: CAT_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: CAT_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Catewgoria.CategoriaDatos.GetCategoriaUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Catewgoria\CategoriaDatos.cs:línea 93
+2026-05-29 11:53:17.2466|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModuloUsuario': 'Unknown column 'CA.CAT_VIGENTE' in 'where clause''|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CA.CAT_VIGENTE' in 'where clause'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModuloUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 31
+2026-05-29 11:53:21.0794|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModuloUsuario': 'Unknown column 'CA.CAT_VIGENTE' in 'where clause''|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CA.CAT_VIGENTE' in 'where clause'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModuloUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 31
+2026-05-29 12:00:10.8852|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModuloUsuario': 'Unknown column 'CA.CAT_VIGENTE' in 'where clause''|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CA.CAT_VIGENTE' in 'where clause'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModuloUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 31

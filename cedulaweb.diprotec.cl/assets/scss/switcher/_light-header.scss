@@ -1,0 +1,114 @@
+/*-- Light-header --*/ 
+[data-theme-color="dark"] {
+  &[data-header-style="light"] {
+
+      @media (max-width: 575.98px) {
+        .light-header .hor-header {
+          .main-logo .header-brand-img.icon-logo {
+            display: none !important;
+          }
+      
+          .header-brand-img {
+            &.desktop-logo.theme-logo {
+              display: none !important;
+            }
+      
+            &.icon-logo.theme-logo {
+              display: block !important;
+            }
+          }
+        }
+      }
+
+      .input-icon {
+        .header-search.form-control {
+            background-color: rgba(255,255,255);
+            border-color: #e9edf4;
+            color: #334151;
+            &::placeholder {
+                color: rgba(0, 0, 0, 0.4);
+            }
+            &:focus {
+                border-color: $primary-05;
+            }
+        }
+        .input-icon-addon {
+            .header-serach-btn {
+                color: rgba(0,0,0,0.4);
+            }
+        }
+    }
+    .main-header-right .nav-link.icon {
+        color: #334151;
+    }
+    .main-header-menu-icon span {
+        background-color: #334151;
+
+        &::before,
+        &::after {
+            background-color: #334151;
+        }
+    }
+
+      @media (max-width: 992px) {
+        .desktop-logo-dark {
+          display: block !important;
+        }
+        .theme-logo {
+          display: none !important;
+        }
+        .main-header-right .nav-link.icon {
+          --color: #000;
+        }
+        .switcher-icon {
+          color: #000 !important;
+        }
+        .responsive-navbar.navbar .navbar-collapse {
+          background-color: #fff;
+          inset-block-start: 65px;
+        }
+        .navbar-toggler-icon {
+          --color : #000;
+        }
+      }
+  }
+}
+.main-header {
+  background: #{$header-bg};
+  border-block-end: 1px solid $border ;
+}
+
+.hor-header .header-brand-img.desktop-logo {
+  display: none !important;
+
+  &.theme-logo {
+      display: block !important;
+  }
+}
+
+.main-header-right .nav-link.icon {
+  color: var(--color);
+}
+
+.main-header-menu-icon span {
+  background-color: var(--color);
+
+  &::before,
+  &::after {
+      background-color: var(--color);
+  }
+}
+
+.main-header-center .form-control {
+  border-color: transparent;
+}
+
+.main-header-message > a,
+.main-header-notification > a {
+  color: var(--white);
+}
+
+
+
+
+/*-- Light-header --*/ 

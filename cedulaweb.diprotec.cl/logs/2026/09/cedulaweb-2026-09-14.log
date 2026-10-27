@@ -1,0 +1,28 @@
+2026-09-14 10:17:55.0335|Error|Datos.Comunes.FuncionesDatos|Error en 'ActualizarPermiso': 'Parameter 'P_MP_ESTADO' not found in the collection.'|System.ArgumentException: Parameter 'P_MP_ESTADO' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   en Datos.v1.ModuloPerfil.ModuloPerfilDatos.ActualizarPermiso(ModuloPerfilModelo moduloPerfil, String procedimientoActualizacion, String parametroValor, SByte valor, String campo) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\ModuloPerfil\ModuloPerfilDatos.cs:línea 193
+2026-09-14 10:17:55.7914|Error|Datos.Comunes.FuncionesDatos|Error en 'ActualizarPermiso': 'Parameter 'P_MP_ESTADO' not found in the collection.'|System.ArgumentException: Parameter 'P_MP_ESTADO' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   en Datos.v1.ModuloPerfil.ModuloPerfilDatos.ActualizarPermiso(ModuloPerfilModelo moduloPerfil, String procedimientoActualizacion, String parametroValor, SByte valor, String campo) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\ModuloPerfil\ModuloPerfilDatos.cs:línea 193
+2026-09-14 11:20:15.1755|Error|Datos.Comunes.FuncionesDatos|Error en 'ActualizarPermiso': 'Cannot add or update a child row: a foreign key constraint fails (`dpt_cedula_2`.`tbl_modulo_perfil_bitacora`, CONSTRAINT `FK_MODULO_PERFIL_BITACORA:USUARIO` FOREIGN KEY (`USU_RUT`) REFERENCES `tbl_usuario` (`USU_RUT`) ON DELETE RESTRICT ON UPDATE RESTRICT'|MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`dpt_cedula_2`.`tbl_modulo_perfil_bitacora`, CONSTRAINT `FK_MODULO_PERFIL_BITACORA:USUARIO` FOREIGN KEY (`USU_RUT`) REFERENCES `tbl_usuario` (`USU_RUT`) ON DELETE RESTRICT ON UPDATE RESTRICT
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   en Datos.v1.ModuloPerfil.ModuloPerfilDatos.ActualizarPermiso(ModuloPerfilModelo moduloPerfil, String procedimientoActualizacion, String parametroValor, SByte valor) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\ModuloPerfil\ModuloPerfilDatos.cs:línea 203

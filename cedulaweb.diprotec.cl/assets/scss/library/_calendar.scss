@@ -1,0 +1,78 @@
+/*--- Calendar  ---*/
+
+.cal1 .clndr .clndr-controls .clndr-control-button .clndr-next-button {
+  color: #fff;
+  background: $primary;
+  border-radius: 3px;
+}
+.cal1 .clndr .clndr-controls .clndr-control-button .clndr-previous-button {
+  color: #fff;
+  background: $primary;
+  border-radius: 3px;
+}
+.cal1 .clndr .clndr-controls {
+  width: 100%;
+  position: relative;
+  display: flex;
+  padding: 15px;
+  border: 1px solid $border;
+  border-block-end: 0;
+  background-color: transparent;
+}
+.cal1 .clndr .clndr-controls .clndr-control-button {
+  float: left;
+  width: 33%;
+}
+.cal1 .clndr .clndr-table {
+  table-layout: fixed;
+  width: 100%;
+}
+table {
+  caption-side: bottom;
+  border-collapse: collapse;
+}
+.cal1 .clndr .clndr-table .header-days .header-day {
+  border-inline-start: 1px solid $border;
+  border-block-start: 1px solid $border;
+  border-inline-end: 1px solid $border;
+}
+.cal1 .clndr .clndr-table tr .day {
+  border-inline-start: 1px solid $border;
+  border-block-start: 1px solid $border;
+  border-inline-end: 1px solid $border;
+}
+.cal1 .clndr .clndr-table tr .day:hover {
+  background: $border;
+}
+.cal1 .clndr .clndr-table tr .day.today:hover {
+  background: $primary;
+}
+.cal1 .clndr .clndr-table tr .day.event {
+  background: $background !important;
+}
+.cal1 .clndr .clndr-table tr .day.today {
+  background: $primary;
+  color: rgb(var(--white));
+}
+.cal1 .clndr .clndr-table tr .day.event:hover {
+  color: $primary;
+}
+.cal1 .clndr .clndr-table tr .day .day-contents {
+  padding: 8px 9px !important;
+}
+@media (max-width: 360px) {
+  .cal1 .clndr .clndr-controls {
+    display: grid !important;
+  }
+}
+@media (max-width: 361px) {
+  .cal1 .clndr .clndr-controls .month {
+    width: 100% !important;
+    text-align: $float-start !important;
+  }
+}
+
+
+/*--- Calendar  ---*/
+
+

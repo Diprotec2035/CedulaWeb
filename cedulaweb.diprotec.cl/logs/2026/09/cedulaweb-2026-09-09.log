@@ -1,0 +1,8 @@
+2026-09-09 09:02:07.6540|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion)

@@ -1,0 +1,234 @@
+[data-menu-style="gradient"] {
+    .app-sidebar{
+        --border: rgba(255, 255, 255, 0.1);
+        --color: rgba(255, 255, 255, 0.6);
+        --background: rgba(255, 255, 255, 0.05);
+    }
+    .app-sidebar {
+        background: linear-gradient(to right, #{$primary} 0%, #3790a2 360%);
+    }
+
+    .app-sidebar__header {
+        background: linear-gradient(to right, #{$primary} 0%, #3790a2 360%);
+    }
+   
+    .side-menu__item {
+        &.active, &:hover, &:focus {
+            color: #fff !important;
+
+            .side-menu__icon {
+                color: #fff;
+            }
+        }
+    }
+
+    .sidebar-mini.sidenav-toggled.show-sidenav .side-menu__item.help-support {
+        display: flex; 
+        text-align: start;
+    }
+
+    .main-sidemenu {
+		.slide-left,
+		.slide-right {
+			background: linear-gradient(to right, #{$primary} 0%, #3790a2 360%);
+			border: 1px solid $border;
+		}
+	}
+
+    .slide-item, .sub-side-menu__item, .sub-slide-item2 {
+        &:hover, &.active {
+            color: #fff;
+        }
+    }
+    
+    .responsive-logo .main-logo .desktop-logo {
+        display: none;
+
+        &.desktop-logo-dark {
+            display: block;
+        }
+    }
+
+    .desktop-logo {
+        display: block;
+    }
+    
+    .mobile-logo, .desktop-logo-dark {
+            display: none;
+    }
+
+    .slide-right, .slide-left {
+        svg {
+            fill: #fff;
+            color: #fff;
+        }
+    }
+
+    &[data-vertical-style="hover"],
+    &[data-vertical-style="hover1"] {
+        @media (min-width: 992px) {
+            .app.show-sidenav .app-sidebar__header {
+
+                .desktop-logo {
+                    display: none !important;
+                }
+
+                .mobile-logo {
+                    display: block !important;
+                }
+
+                .mobile-logo-dark {
+                    display: none !important;
+                }
+            }
+        }
+    }
+
+    &[data-vertical-style="doublemenu"],
+    &[data-vertical-style="doublemenu-tabs"] {
+        @media (min-width: 992px) {
+           .app-sidebar__header {
+
+                .desktop-logo {
+                    display: none !important;
+                }
+
+                .mobile-logo {
+                    display: block !important;
+                }
+
+                .mobile-logo-dark {
+                    display: none !important;
+                }
+            }
+        }
+    }
+
+    .side-menu__icon {
+        border-color: #{$border};
+        color: #fff;
+    }
+    .side-menu__label{
+        color: #fff;
+      }
+      .angle{
+        opacity: 2.6;
+      }
+      .app-sidebar .side-item.side-item-category{
+        color: rgba(255, 255, 255, 0.7);
+        opacity: 1.7;
+      }
+
+    @media (min-width: 992px) {
+        .sidebar-mini.sidenav-toggled {
+            .mobile-logo {
+                display: block;
+      
+                &.mobile-logo-dark {
+                display: none;
+                }
+            }
+      
+            &.show-sidenav {
+                .desktop-logo {
+                    display: block;
+      
+                    &.desktop-logo-dark {
+                        display: none !important;
+                    }
+                }
+      
+                .mobile-logo {
+                    display: none;
+                }
+            }
+        }
+    }
+
+    .app-sidebar__user {
+        color: #fff;
+    }
+
+    .ps__rail-y.ps--clicking .ps__thumb-y {
+        background-color: rgba($color: #fff, $alpha: 0.3);
+    }
+
+    .ps .ps__rail-y.ps--clicking {
+        background-color: transparent;
+    }
+
+    .ps .ps__rail-y {
+        &:hover, &:focus {
+            background-color: transparent;
+        }
+    }
+
+    .ps__thumb-y {
+        background-color: transparent;
+    }
+
+    @media (min-width: 992px) {
+        &[data-vertical-style=hover1],
+        &[data-vertical-style=doublemenu],
+        &[data-vertical-style=doublemenu-tabs] {
+            .app .side-menu__label1 a {
+                color: #fff !important;
+            }
+        } 
+        &[data-vertical-style="doublemenu-tabs"] {
+            .sidetab-menu {
+                --primary-bg-color: rgba(255, 255, 255, 0.2);
+                --muted: rgba(255, 255, 255, 0.5);
+                --white: transparent;
+                --gray-100: rgba(255, 255, 255, 0.2);
+                --gray-200: transparent;
+                --gray-300: rgba(255, 255, 255, 0.2);
+                --gray-600: #fff;
+                --gray-800: #fff;
+                --color: #fff;
+                --form-border: rgba(255, 255, 255, 0.1);
+            }
+            .slide-item, .sub-side-menu__item, .sub-slide-item2 {
+                --color: rgba(255, 255, 255, 0.6);
+            }
+        } 
+    }
+
+    &[data-layout="horizontal"] {
+        .horizontal-main {
+            --menu-bg: linear-gradient(to right, #{$primary} 0%, #3790a2 100%);
+
+            .slide-menu {
+                --menu-bg: #{$primary};
+            }
+        }
+    }
+    .sidetab-menu {
+        .menutabs-content,
+        .tab-menu-heading {
+            color: #fff;
+        }
+    }
+    &[data-vertical-style="doublemenu-tabs"] ,&[data-vertical-style="doublemenu"] {
+        .app .slide-menu {
+            background: linear-gradient(to right, $primary 0%, #3790a2 100%);
+        }
+    }
+    &[data-layout=horizontal] .horizontal-main .slide .slide-menu, 
+    &[data-layout=horizontal] .horizontal-main .slide .sub-slide-menu, 
+    &[data-layout=horizontal] .horizontal-main .slide .sub-slide-menu1 {
+        background: linear-gradient(to right, $primary 0%, #3790a2 100%);
+    }
+    &[data-vertical-style="hover"] .app-sidebar .slide .slide-menu {
+        background: linear-gradient(to right, $primary 0%, #3790a2 100%);
+    }
+    &[data-vertical-style="hover1"] .app-sidebar .slide .slide-menu {
+        background: linear-gradient(to right, $primary 0%, #3790a2 100%);
+    }
+    .tab-pane h5 {
+        color: $color;
+    }
+    .tab-pane .item-activity p {
+        color: $color;
+    }
+}

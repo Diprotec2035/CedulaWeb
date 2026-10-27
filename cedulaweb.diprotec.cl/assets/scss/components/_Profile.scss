@@ -1,0 +1,107 @@
+/*---  Profile  ---*/
+.profile-cover__img {
+  position: absolute;
+  inset-inline-start: 50px;
+  inset-block-start: 160px;
+  text-align: center;
+  z-index: 1;
+}
+.profile-cover__img>img {
+  max-width: 100px;
+  border: 0px solid #ffffff;
+  border-radius: 50%;
+}
+.profile-cover__img a {
+  position: absolute;
+  inset-block-end: 1px;
+  inset-inline-end: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  background-color: #f9f9ff;
+  color: #454567;
+  font-size: 15px;
+  line-height: .9;
+  border-radius: 50%;
+}
+.profile-info {
+  display: block;
+  inset-block-start: 185px;
+  position: absolute;
+  color: #f9f6f6;
+  inset-inline-start: 170px;
+}
+.btn-profile {
+  position: absolute;
+  inset-inline-end: 50px;
+  inset-block-start: 220px;
+}
+.profile-cover__action {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  border-radius: 6px;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-pack: end;
+  -webkit-box-pack: end;
+  justify-content: flex-end;
+  overflow: hidden;
+  background: url(../img/media/bg-profileimage.jpg) no-repeat;
+  background-size: cover;
+  height: 255px;
+}
+.profile-share {
+  width: 100%;
+  padding-block-start: 10px;
+  padding-inline-end: 22px;
+  padding-block-end: 10px;
+  padding-inline-start: 22px;
+  border-start-start-radius: 0px; 
+  border-start-end-radius: 0px;
+  border-end-end-radius: 3px;
+  border-end-start-radius: 3px;
+  border: 1px solid #e8e8f7;
+  display: flex;
+  background: #ffffff;
+}
+.avatar-list-stacked .main-avatar.radius {
+  box-shadow: 0 0 0 2px #fff;
+}
+.main-profile-contact-list .media-body {
+  margin-inline-start: 25px;
+}
+.main-profile-contact-list .media-body span {
+  font-size: 12px;
+  color: #a8afc7;
+  display: block;
+  line-height: 1.3;
+}
+.main-profile-contact-list .media-body div {
+  font-weight: 400;
+  color: #8f9cc0;
+}
+.main-profile-social-list .media-body {
+  margin-inline-start: 20px;
+}
+.main-profile-social-list .media-body span {
+  display: block;
+  font-size: 12px;
+}
+.media-logo, .media-icon {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 0;
+  color: #ffffff;
+  font-size: 21px;
+  position: relative;
+  inset-block-start: -2px;
+  border-radius: 100% !important;
+}
+
+/*---  Profile  ---*/

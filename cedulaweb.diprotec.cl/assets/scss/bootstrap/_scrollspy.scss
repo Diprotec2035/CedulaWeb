@@ -1,0 +1,63 @@
+/*---  Scrollspy  ---*/
+
+.nav-pills .nav-link.active{
+    color: #fff !important;
+}
+.dropdown-menu>li>a {
+    display: block;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.428571429;
+    color: #76839a !important;
+    white-space: nowrap;
+}
+.dropdown-item {
+    width: 100%;
+    text-align: inherit;
+    background-color: transparent;
+    border: 0;
+}
+.dropdown-item.active{
+    color: $primary !important;
+}
+.dropdown-item.active {
+    text-decoration: none;
+    background-color: $background;
+}
+.navbar-light .navbar-brand {
+    color: $color !important;
+}
+#navbar-example3 .nav-link {
+    padding: 0.75rem;
+    color: $color !important;
+}
+
+#navbar-example3 .nav-link.active {
+    color: #fff !important;
+}
+.scrollspy-example-2 {
+    position: relative;
+    height: 416px;
+    overflow: auto;
+    padding: 0.75rem;
+    border: 1px solid $border;
+    border-start-start-radius: 0px;
+    border-start-end-radius: 5px;
+    border-end-end-radius: 5px;
+    border-end-start-radius: 0px;
+}
+
+.scrollspy-example-2 .nav-link {
+    padding: 10px;
+}
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+    padding: 0.75rem;
+    border-inline-end: 1px solid $border;
+    border-inline-start: 1px solid $border;
+    border-block-end: 1px solid $border;
+}
+
+/*---  Scrollspy  ---*/

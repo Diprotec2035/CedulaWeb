@@ -1,0 +1,294 @@
+//--RTL STYLES -- //
+
+[dir="rtl"] {
+    // --switcher-- //
+    
+    .demo_changer {
+        left: -270px;
+        right: auto !important;
+        &.active {
+            right: auto !important;
+            left: 0;
+            border-right: 1px solid $border;
+        }
+    }
+    
+    .sidebar {
+        &.sidebar-right, &.sidebar-profile{
+            transform: translate(-100%, 0);
+        }
+        &.sidebar-right.sidebar-open, &.sidebar-profile.sidebar-open {
+            transform: translate(0, 0);
+        }
+    }
+
+    // --view mail-- //
+    .media-title{
+        text-align: start;
+    }
+
+    // --card.html-- //
+    .card-text{
+        text-align: start;
+    }
+    .card-title{
+        text-align: start;
+    }
+    .card-subtitle{
+        text-align: start;
+    }
+
+    // --leaflet maps-- //
+
+     .leaflet-pane,  .leaflet-tile,  .leaflet-marker-icon,  .leaflet-marker-shadow,  .leaflet-tile-container{
+        inset-inline-end: 0;
+        inset-inline-start: auto;
+    }
+
+    // --form-layouts-- //
+
+   [type=email], [type=number],  [type=tel],  [type=url]{
+        direction: rtl;
+    }
+    
+    // --blog post-- //
+    
+    .select2-dropdown.select2-dropdown--below .select2-results__option{
+        text-align: end;
+    }
+
+    // --carousel-- //
+
+    #thumbcarousel .carousel-control-prev{
+        left: 0;
+        right: inherit;
+        transform: rotate(360deg);
+    }
+
+   .dropdown-menu {
+        --bs-position: end;
+        float: right;
+        text-align: right;
+    }
+
+    #thumbcarousel .carousel-control-next{
+        right: 0;
+        left: inherit;
+        transform: rotate(360deg);
+    }
+    .sub-angle.fe-chevron-right:before {
+        content: "\e92e";
+    }
+    .fe-chevron-left:before {
+        content: "\e92f";
+    }
+
+    //  chat page //
+     .main-msg-wrapper:before, .main-msg-wrapper:after {
+        left: 100%;
+        right: inherit;
+        border-color: transparent transparent transparent $background;
+    }
+
+    // treeview //
+    
+    .tree .branch .si-arrow-right-circle {
+        transform: rotate(180deg);
+    }
+    .dTree li.folder-group {
+        background: none;
+    }
+
+    // product-details //
+    .carousel-control-next, .carousel-control-prev {
+        transform: rotate(180deg);
+    }
+    .carousel-control-next, .carousel-control-next {
+        transform: rotate(180deg);
+    }
+
+    // product-cart //
+    .step-footer .mdi-arrow-left {
+        transform: rotate(180deg);
+    }
+    .step-footer .mdi-arrow-right {
+        transform: rotate(180deg);
+    }
+
+    // form wizards //
+    .wizard.vertical > .content {
+        border-inline-start: 1px solid $border;
+    }
+
+    //  Terms page //
+     .fa.fa-angle-double-right {
+        transform: rotate(180deg);
+    }
+
+    // settings // 
+    .ion-chevron-right {
+        transform: rotate(180deg);
+    }
+
+    // media-object //
+    .component-item a:before {
+        transform: rotate(180deg);
+    }
+
+    // pagination //
+    .page-link .ion-chevron-right {
+        transform: rotate(180deg);
+    }
+    .page-link .ion-chevron-left {
+        transform: rotate(180deg);
+    }
+
+    //  spinners //
+    .lds-heart {
+        transform: rotate(315deg);
+    }
+
+    //  Gallery //
+    .lg-actions .lg-prev {
+        transform: rotate(180deg);
+    }
+    .lg-actions .lg-next {
+        transform: rotate(180deg);
+    }
+
+    // sidebar Chat //
+    .list-group-flush .fa-angle-right {
+        transform: rotate(180deg);
+    }
+
+     // form-advanced //
+     .daterangepicker.ltr.show-calendar {
+        right: 310px !important;
+    }
+
+    // sidemenu //
+    .angle {
+        transform: rotate(180deg);
+    }
+ 
+    // navigation page //
+    .main-nav-tabs .lSAction > a.lSPrev {
+        transform: rotate(180deg);
+    }
+    .main-nav-tabs .lSAction > a.lSNext {
+        transform: rotate(180deg);
+    }
+
+    // tabs page //
+    .tab_wrapper .content_wrapper .accordian_header .arrow {
+        transform: rotate(135deg);
+    }
+    .tab_wrapper .content_wrapper .accordian_header.active .arrow {
+        transform: rotate(312deg);
+    }
+
+    .MS-content {
+        direction: ltr;
+    }
+
+    // timeline page //
+    @media (max-width: 767px) {
+        .vtimeline .timeline-wrapper .timeline-panel:after {
+            border-left: 14px solid var(--light) !important;
+            border-right: 0 solid transparent !important;
+            right: -14px !important;
+            left: auto !important;
+        }
+    }
+
+    // form elements //
+    .ui-datepicker .ui-datepicker-header .ui-datepicker-next {
+        transform: rotate(180deg);
+    }
+    .ui-datepicker .ui-datepicker-header .ui-datepicker-prev {
+        transform: rotate(180deg);
+    }
+
+    // Echarts page //
+    .echart-height {
+        span {
+            margin-left: 5px;
+            margin-right: inherit;
+        }
+    }
+
+    // full calendar //
+    .fc-direction-ltr {
+        direction: rtl;
+    }
+    .fc-icon-chevron-left {
+        transform: rotate(-180deg);
+    }
+    .fc-icon-chevron-right {
+        transform: rotate(-180deg);
+    }
+    .fc-direction-ltr {
+        direction: rtl;
+    }
+
+    // ribbons //
+    .ribbon-top-left span {
+        transform: rotate(45deg);
+    }
+
+    .ribbone-top-left span {
+        transform: rotate(45deg);
+    }
+    .ribbone-top-right span {
+        transform: rotate(315deg);
+    }
+    .power-ribbone-top-right span {
+        transform: rotate(-45deg);
+    }
+    .power-ribbone-top-right span i{
+        transform: rotate(45deg);
+    }
+    .power-ribbone-bottom-right span {
+        transform: rotate(45deg);
+    }
+    .power-ribbone-bottom-right span i {
+        transform: rotate(-45deg);
+    }
+    .power-ribbone-bottom-left span {
+        transform: rotate(-45deg);
+    }
+    .power-ribbone-bottom-left span i{
+        transform: rotate(45deg);
+    }
+    .power-ribbone-top-left span {
+        transform: rotate(45deg);
+    }
+    .power-ribbone-top-left span i{
+        transform: rotate(-45deg);
+    }
+
+    // morris charts //
+    .morris-wrapper-demo svg.text {
+        text-anchor: start;
+    }
+
+    //index page//
+    .img-flag {
+        float: right;
+        margin-block-start: 4px;
+    }
+
+    .typcn-media-play-outline:before {
+        content: '\e0ae';
+    }
+
+     //apexchart//
+    .apexcharts-canvas .apexcharts-yaxis .apexcharts-yaxis-texts-g {
+        transform: translate(-2rem,0);
+    }
+    .dropdown-menu-arrow:before {
+        border-inline-end: 1px solid $border;
+        border-inline-start: 0px solid $border;
+    }
+    
+}

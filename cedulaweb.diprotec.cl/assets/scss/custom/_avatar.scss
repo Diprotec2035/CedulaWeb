@@ -1,0 +1,234 @@
+/*---  Avatars  ---*/
+
+.demo-avatar-group {
+  flex-wrap: wrap;
+  align-items: center;
+
+  .main-img-user, .main-avatar {
+    flex-shrink: 0;
+  }
+
+  .main-img-user + {
+    .main-img-user, .main-avatar {
+      margin-inline-start: 5px;
+    }
+  }
+
+  .main-avatar + {
+    .main-img-user, .main-avatar {
+      margin-inline-start: 5px;
+    }
+  }
+}
+.main-avatar {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  border-radius: 100% !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: $fixed-white;
+  font-weight: 600;
+  font-size: 16px;
+  background-color: $primary;
+
+  &::after {
+    content: '';
+    position: absolute;
+    inset-block-end: 0;
+    inset-inline-end: 3px;
+    width: 6px;
+    height: 6px;
+    background-color: $muted;
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.95);
+    border-radius: 100%;
+  }
+
+  &.online::after {
+    background-color: $success;
+  }
+}
+
+.avatar {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  border-radius: 100% !important;
+  display: inline-flex;
+  vertical-align: bottom;
+  align-items: center;
+  justify-content: center;
+  color: rgb(var(--white));
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 2;
+}
+
+.avatar-sm {
+  width: 32px;
+  height: 32px;
+  font-size: 14px;
+
+  &::after {
+    width: 7px;
+    height: 7px;
+  }
+}
+
+.avatar-md {
+  width: 48px !important;
+  height: 48px !important;
+  font-size: 24px !important;
+
+  &::after {
+    width: 9px;
+    height: 9px;
+    inset-inline-end: 2px;
+    inset-block-end: 2px;
+  }
+}
+
+
+.avatar-lg {
+  width: 64px !important;
+  height: 64px !important;
+  font-size: 28px !important;
+
+  &::after {
+    width: 10px;
+    height: 10px;
+    inset-block-end: 3px;
+    inset-inline-end: 4px;
+  }
+}
+
+.avatar-xl {
+  width: 72px !important;
+  height: 72px !important;
+  font-size: 36px !important;
+
+  &::after {
+    width: 11px;
+    height: 11px;
+    inset-block-end: 4px;
+    inset-inline-end: 5px;
+    box-shadow: 0 0 0 2.5px rgb(var(--white));
+  }
+}
+
+.avatar-xxl {
+  width: 100px !important;
+  height: 100px !important;
+  font-size: 56px !important;
+
+  &::after {
+    width: 13px;
+    height: 13px;
+    inset-block-end: 6px;
+    inset-inline-end: 7px;
+    box-shadow: 0 0 0 3px rgb(var(--white));
+  }
+}
+
+.avatar-list {
+  .avatar {
+    margin-block-end: .5rem;
+
+    &:not(:last-child) {
+      margin-inline-end: .5rem;
+    }
+  }
+
+  margin-block-start: 0rem;
+  margin-inline-end: 0rem;
+  margin-block-end: -.5rem;
+  margin-inline-start: 0rem;
+  padding: 0;
+  font-size: 0;
+}
+.avatar-xs {
+  width: 24px;
+  height: 24px;
+  font-size: 11px;
+
+  &::after {
+    width: 5px;
+    height: 5px;
+  }
+}
+@media (min-width: 576px) {
+ .demo-avatar-group {
+      .main-img-user + {
+        .main-img-user, .main-avatar {
+          margin-inline-start: 10px;
+        }
+      }
+      .main-avatar + {
+        .main-img-user, .main-avatar {
+          margin-inline-start: 10px;
+        }
+      }
+    }
+  }
+
+.avatar-icons {
+    content: "";
+    inset-block-start: 56px;
+    inset-inline-end: -5px;
+    width: 23px;
+    height: 23px;
+    position: absolute;
+    line-height: initial;
+    cursor: pointer;
+    display: flex;
+    i{
+      margin: -1px;
+      color: white;
+    }
+}
+.avatar-badges {
+  content: "";
+  inset-block-start: 0px;
+  inset-inline-end: 2px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  cursor: pointer;
+}
+.avatar-status {
+  position: absolute;
+  inset-inline-end: -2px;
+  inset-block-end: -2px;
+  width: 0.8rem;
+  height: 0.8rem;
+  border: 2px solid #fff;
+  border-radius: 50% !important;
+  background-color: #99a6b7;
+}
+.avatar-list-stacked .main-img-user {
+  margin-inline-end: -0.8rem !important;
+}
+
+.avatar-list .main-img-user{
+ margin-inline-end: -1rem !important;
+ }
+ .avatar-list .main-img-user{
+   .radius{
+     box-shadow: 0 0 0 2px $border; 
+   }
+}
+.avatar-list-stacked .main-img-user{
+  .radius{
+    box-shadow: 0 0 0 2px $border; 
+  }
+}
+.avatar-list-stacked .avatar.radius{
+  border-radius: 3px !important;
+  box-shadow: 0 0 0 2px $border;
+}
+.avatar-list-stacked .avatar {
+    margin-inline-end: -0.8em !important;
+    
+}
+/*---  Avatars  ---*/

@@ -1,0 +1,404 @@
+2026-09-11 09:05:55.9413|Error|Datos.Comunes.FuncionesDatos|Error en 'GetPerfil': 'Could not find specified column in results: PER_VIGENTE_NOMBRE'|System.IndexOutOfRangeException: Could not find specified column in results: PER_VIGENTE_NOMBRE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Perfil.PerfilDatos.MapearPerfil(IDataRecord reader) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 165
+   en Datos.v1.Perfil.PerfilDatos.GetPerfil(Int32& operacion, UInt32 perfilId) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 87
+2026-09-11 09:06:20.6295|Error|Datos.Comunes.FuncionesDatos|Error en 'GetPerfil': 'Could not find specified column in results: PER_VIGENTE_NOMBRE'|System.IndexOutOfRangeException: Could not find specified column in results: PER_VIGENTE_NOMBRE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Perfil.PerfilDatos.MapearPerfil(IDataRecord reader) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 165
+   en Datos.v1.Perfil.PerfilDatos.GetPerfil(Int32& operacion, UInt32 perfilId) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 87
+2026-09-11 09:06:22.9588|Error|Datos.Comunes.FuncionesDatos|Error en 'GetPerfil': 'Could not find specified column in results: PER_VIGENTE_NOMBRE'|System.IndexOutOfRangeException: Could not find specified column in results: PER_VIGENTE_NOMBRE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Perfil.PerfilDatos.MapearPerfil(IDataRecord reader) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 165
+   en Datos.v1.Perfil.PerfilDatos.GetPerfil(Int32& operacion, UInt32 perfilId) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 87
+2026-09-11 09:06:25.7156|Error|Datos.Comunes.FuncionesDatos|Error en 'GetPerfil': 'Could not find specified column in results: PER_VIGENTE_NOMBRE'|System.IndexOutOfRangeException: Could not find specified column in results: PER_VIGENTE_NOMBRE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Perfil.PerfilDatos.MapearPerfil(IDataRecord reader) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 165
+   en Datos.v1.Perfil.PerfilDatos.GetPerfil(Int32& operacion, UInt32 perfilId) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 87
+2026-09-11 09:08:24.0772|Error|Datos.Comunes.FuncionesDatos|Error en 'GetPerfil': 'Could not find specified column in results: PER_VIGENTE_NOMBRE'|System.IndexOutOfRangeException: Could not find specified column in results: PER_VIGENTE_NOMBRE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Perfil.PerfilDatos.MapearPerfil(IDataRecord reader) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 165
+   en Datos.v1.Perfil.PerfilDatos.GetPerfil(Int32& operacion, UInt32 perfilId) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 87
+2026-09-11 09:51:12.5939|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 105
+2026-09-11 09:51:48.1558|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetReporteCategorias': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.v1.Catewgoria.CategoriaDatos.GetReporteCategorias(Int32& operacion, String buscador, Int16 vigente, Int16 orden, Int16 orientacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Categoria\CategoriaDatos.cs:línea 23
+2026-09-11 09:51:48.5908|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 75
+2026-09-11 09:51:49.1187|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetReporteCategorias': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.v1.Catewgoria.CategoriaDatos.GetReporteCategorias(Int32& operacion, String buscador, Int16 vigente, Int16 orden, Int16 orientacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Categoria\CategoriaDatos.cs:línea 23
+2026-09-11 09:51:49.6441|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 75
+2026-09-11 09:52:42.2344|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 105
+2026-09-11 09:52:48.2192|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 105
+2026-09-11 09:53:11.6875|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 105
+2026-09-11 09:53:15.2022|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 105
+2026-09-11 09:53:40.3132|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 105
+2026-09-11 09:53:43.8504|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 105
+2026-09-11 09:53:50.8671|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 105
+2026-09-11 09:53:54.6105|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 105
+2026-09-11 09:54:04.1832|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2''|MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '172.16.0.11' for user 'UsuarioRuntime' using method 'caching_sha2_password' failed with message: Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2' ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'UsuarioRuntime'@'%' to database 'dpt_cedula_2'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(MySqlException ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en Datos.ConexionDatos.CrearConexionAbierta() en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\Comunes\ConexionDatos.cs:línea 26
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 105
+2026-09-11 10:05:19.9431|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Could not find specified column in results: EU_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: EU_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 131
+2026-09-11 10:11:29.9672|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetCategoriaUsuario': 'Could not find specified column in results: CAT_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: CAT_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Catewgoria.CategoriaDatos.GetCategoriaUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Categoria\CategoriaDatos.cs:línea 94
+2026-09-11 10:11:30.5094|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetCategoriaUsuario': 'Could not find specified column in results: CAT_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: CAT_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Catewgoria.CategoriaDatos.GetCategoriaUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Categoria\CategoriaDatos.cs:línea 94
+2026-09-11 11:01:12.7023|Error|Datos.Comunes.FuncionesDatos|Error en 'GetModuloPerfilUsuario': 'Could not find specified column in results: MP_ID'|System.IndexOutOfRangeException: Could not find specified column in results: MP_ID
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.ModuloPerfil.ModuloPerfilDatos.GetModuloPerfilUsuario(Int32& operacion, String rutEmpresa, String rutUsuario, String urlModulo) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\ModuloPerfil\ModuloPerfilDatos.cs:línea 92
+2026-09-11 11:05:46.8577|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetReporteCategorias': 'Parameter 'P_CAT_ESTADO' not found in the collection.'|System.ArgumentException: Parameter 'P_CAT_ESTADO' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Catewgoria.CategoriaDatos.GetReporteCategorias(Int32& operacion, String buscador, Int16 vigente, Int16 orden, Int16 orientacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Categoria\CategoriaDatos.cs:línea 35
+2026-09-11 11:05:47.4662|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Could not find specified column in results: MOD_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: MOD_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 89
+2026-09-11 11:05:47.8487|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetReporteCategorias': 'Parameter 'P_CAT_ESTADO' not found in the collection.'|System.ArgumentException: Parameter 'P_CAT_ESTADO' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Catewgoria.CategoriaDatos.GetReporteCategorias(Int32& operacion, String buscador, Int16 vigente, Int16 orden, Int16 orientacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Categoria\CategoriaDatos.cs:línea 35
+2026-09-11 11:05:48.2795|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Could not find specified column in results: MOD_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: MOD_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 89
+2026-09-11 11:06:12.2094|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetReporteCategorias': 'Parameter 'P_CAT_ESTADO' not found in the collection.'|System.ArgumentException: Parameter 'P_CAT_ESTADO' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Catewgoria.CategoriaDatos.GetReporteCategorias(Int32& operacion, String buscador, Int16 vigente, Int16 orden, Int16 orientacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Categoria\CategoriaDatos.cs:línea 35
+2026-09-11 11:06:12.8094|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Could not find specified column in results: MOD_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: MOD_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 89
+2026-09-11 11:14:48.8790|Error|Datos.Comunes.FuncionesDatos|Error en 'GetPerfil': 'Could not find specified column in results: PER_ESTADO_NOMBRE'|System.IndexOutOfRangeException: Could not find specified column in results: PER_ESTADO_NOMBRE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Perfil.PerfilDatos.MapearPerfil(IDataRecord reader) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 170
+   en Datos.v1.Perfil.PerfilDatos.GetPerfil(Int32& operacion, UInt32 perfilId, Nullable`1 estado, String rutEmpresa) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 89
+2026-09-11 13:22:03.5513|Error|Datos.Comunes.FuncionesDatos|Error en 'GetReporteModulosPerfil': 'Procedure or function 'SP_SEL_REPORTE_MODULO_PERFIL' cannot be found in database '' Verify that user 'UsuarioRuntime'@'172.16.0.11' has enough privileges to execute'|MySql.Data.MySqlClient.MySqlException (0x80004005): Procedure or function 'SP_SEL_REPORTE_MODULO_PERFIL' cannot be found in database '' Verify that user 'UsuarioRuntime'@'172.16.0.11' has enough privileges to execute
+   en MySql.Data.MySqlClient.ProcedureCache.GetProcData(MySqlConnection connection, String spName)
+   en MySql.Data.MySqlClient.ProcedureCache.GetProcedure(MySqlConnection conn, String spName, String cacheKey)
+   en MySql.Data.MySqlClient.StoredProcedure.GetParameters(String procName)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.ModuloPerfil.ModuloPerfilDatos.GetReporteModulosPerfil(Int32& operacion, ModuloPerfilFiltroModelo filtro) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\ModuloPerfil\ModuloPerfilDatos.cs:línea 36
+2026-09-11 13:22:28.4152|Error|Datos.Comunes.FuncionesDatos|Error en 'GetReporteModulosPerfil': 'Procedure or function 'SP_SEL_REPORTE_MODULO_PERFIL' cannot be found in database '' Verify that user 'UsuarioRuntime'@'172.16.0.11' has enough privileges to execute'|MySql.Data.MySqlClient.MySqlException (0x80004005): Procedure or function 'SP_SEL_REPORTE_MODULO_PERFIL' cannot be found in database '' Verify that user 'UsuarioRuntime'@'172.16.0.11' has enough privileges to execute
+   en MySql.Data.MySqlClient.ProcedureCache.GetProcData(MySqlConnection connection, String spName)
+   en MySql.Data.MySqlClient.ProcedureCache.GetProcedure(MySqlConnection conn, String spName, String cacheKey)
+   en MySql.Data.MySqlClient.StoredProcedure.GetParameters(String procName)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.ModuloPerfil.ModuloPerfilDatos.GetReporteModulosPerfil(Int32& operacion, ModuloPerfilFiltroModelo filtro) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\ModuloPerfil\ModuloPerfilDatos.cs:línea 36
+2026-09-11 13:41:49.1527|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Could not find specified column in results: EU_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: EU_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 131
+2026-09-11 13:48:05.6186|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetCategoriaUsuario': 'Could not find specified column in results: CAT_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: CAT_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Catewgoria.CategoriaDatos.GetCategoriaUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Categoria\CategoriaDatos.cs:línea 94
+2026-09-11 13:48:06.2974|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetCategoriaUsuario': 'Could not find specified column in results: CAT_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: CAT_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Catewgoria.CategoriaDatos.GetCategoriaUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Categoria\CategoriaDatos.cs:línea 94
+2026-09-11 13:51:04.6738|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetCategoriaUsuario': 'Could not find specified column in results: CAT_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: CAT_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Catewgoria.CategoriaDatos.GetCategoriaUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Categoria\CategoriaDatos.cs:línea 94
+2026-09-11 13:51:05.0943|Error|Datos.v1.Catewgoria.CategoriaDatos|Error en 'GetCategoriaUsuario': 'Could not find specified column in results: CAT_VIGENTE'|System.IndexOutOfRangeException: Could not find specified column in results: CAT_VIGENTE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Catewgoria.CategoriaDatos.GetCategoriaUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Categoria\CategoriaDatos.cs:línea 94

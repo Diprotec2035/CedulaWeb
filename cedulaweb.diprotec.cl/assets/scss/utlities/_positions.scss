@@ -1,0 +1,285 @@
+/*---  Positions ---*/
+
+.pos-absolute {
+  position: absolute;
+}
+
+.pos-relative {
+  position: relative;
+}
+
+.pos-fixed {
+  position: fixed;
+}
+
+.pos-static {
+  position: static;
+}
+
+.position-relative {
+  position: relative !important;
+}
+
+.position-absolute {
+  position: absolute !important;
+}
+
+.t-0 {
+  inset-block-start: 0px;
+}
+
+.r-0 {
+  inset-inline-end: 0px;
+}
+
+.b-0 {
+  inset-block-end: 0px;
+}
+
+.l-0 {
+  inset-inline-start: 0px;
+}
+
+.a-0 {
+  inset-block-start: 0px;
+  inset-inline-end: 0px;
+  inset-block-end: 0px;
+  inset-inline-start: 0px;
+}
+
+.x-0, .y-0 {
+  inset-inline-start: 0px;
+  inset-inline-end: 0px;
+}
+
+.t-5 {
+  inset-block-start: 5px;
+}
+
+.r-5 {
+  inset-inline-end: 5px;
+}
+
+.b-5 {
+  inset-block-end: 5px;
+}
+
+.l-5 {
+  inset-inline-start: 5px;
+}
+
+.a-5 {
+  inset-block-start: 5px;
+  inset-inline-end: 5px;
+  inset-block-end: 5px;
+  inset-inline-start: 5px;
+}
+
+.x-5, .y-5 {
+  inset-inline-start: 5px;
+  inset-inline-end: 5px;
+}
+
+.t-10 {
+  inset-block-start: 10px;
+}
+
+.r-10 {
+  inset-inline-end: 10px;
+}
+
+.x-10, .y-10 {
+  inset-inline-start: 10px;
+  inset-inline-end: 10px;
+}
+
+.t-15 {
+  inset-block-start: 15px;
+}
+
+.b-15 {
+  inset-block-end: 15px;
+}
+
+.x-15, .y-15 {
+  inset-inline-start: 15px;
+  inset-inline-end: 15px;
+}
+
+.t-20 {
+  inset-block-start: 20px;
+}
+
+.r-20 {
+  inset-inline-end: 20px;
+}
+
+.b-20 {
+  inset-block-end: 20px;
+}
+
+.l-20 {
+  inset-inline-start: 20px;
+}
+
+.x-20, .y-20 {
+  inset-inline-start: 20px;
+  inset-inline-end: 20px;
+}
+
+.t-25 {
+  inset-block-start: 25px;
+}
+
+.b-25 {
+  inset-block-end: 25px;
+}
+
+.x-25, .y-25 {
+  inset-inline-start: 25px;
+  inset-inline-end: 25px;
+}
+
+.t-30 {
+  inset-block-start: 30px;
+}
+
+.b-30 {
+  inset-block-end: 30px;
+}
+
+.l-30 {
+  inset-inline-start: 30px;
+}
+
+.x-30, .y-30 {
+  inset-inline-start: 30px;
+  inset-inline-end: 30px;
+}
+
+.t-35 {
+  inset-block-start: 35px;
+}
+
+.t-40 {
+  inset-block-start: 40px;
+}
+
+.b-40 {
+  inset-block-end: 40px;
+}
+
+.l-40 {
+  inset-inline-start: 40px;
+}
+
+ .y-40 {
+  inset-inline-start: 40px;
+  inset-inline-end: 40px;
+}
+
+.t-50 {
+  inset-block-start: 50px;
+}
+
+.a-50 {
+  inset-block-start: 50px;
+  inset-inline-end: 50px;
+  inset-block-end: 50px;
+  inset-inline-start: 50px;
+}
+
+ .y-50 {
+  inset-inline-start: 50px;
+  inset-inline-end: 50px;
+}
+
+.t-60 {
+  inset-block-start: 60px;
+}
+
+ .y-60 {
+  inset-inline-start: 60px;
+  inset-inline-end: 60px;
+}
+
+.t-70 {
+  inset-block-start: 70px;
+}
+
+.l-70 {
+  inset-inline-start: 70px;
+}
+
+ .y-70 {
+  inset-inline-start: 70px;
+  inset-inline-end: 70px;
+}
+
+.t-75 {
+  inset-block-start: 75px;
+}
+
+.t-80 {
+  inset-block-start: 80px;
+}
+
+ .y-80 {
+  inset-inline-start: 80px;
+  inset-inline-end: 80px;
+}
+
+.y-90 {
+  inset-inline-start: 90px;
+  inset-inline-end: 90px;
+}
+
+.t-100 {
+  inset-block-start: 100px;
+}
+
+.x-100, .y-100 {
+  inset-inline-start: 100px;
+  inset-inline-end: 100px;
+}
+
+.t-2 {
+  inset-block-start: 2px;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+@media (min-width: 992px) {
+  .hor-top-header {
+    .main-logo {
+      position: inherit;
+    }
+
+    .header-brand-img.desktop-logo {
+      position: absolute;
+      margin: 0 auto;
+      inset-inline-start: 0;
+      inset-inline-end: 0;
+    }
+  }
+
+  .t-lg-auto {
+    inset-block-start: auto;
+  }
+
+  .r-lg-auto {
+    inset-inline-end: auto;
+  }
+
+  .b-lg-auto {
+    inset-block-end: auto;
+  }
+
+  .l-lg-auto {
+    inset-inline-start: auto;
+  }
+}
+
+/*---  Positions ---*/

@@ -1,0 +1,217 @@
+/*-- Gradient-header --*/
+
+[data-header-style="gradient"] {
+    .main-header-center .form-control {
+        border-color: transparent;
+    }
+    .main-header {
+        background: linear-gradient(to right, $primary 0%, #3790a2 100%);
+        border-block-end: 1px solid rgba(255,255,255,0.3) !important;
+    }
+
+    .input-icon {
+        .header-search.form-control {
+            background-color: rgba(255,255,255,0.1);
+            border-color: rgba(255,255,255,0.1);
+            color: #fff;
+            &::placeholder {
+                color: rgba(255,255,255,0.4);
+            }
+            &:focus {
+                border-color: rgba(255,255,255,0.5);
+            }
+        }
+        .input-icon-addon {
+            .header-serach-btn {
+                color: rgba(255,255,255,0.4);
+            }
+        }
+    }
+
+    .hor-header .header-brand-img.desktop-logo {
+        display: none !important;
+
+        &.theme-logo {
+            display: block !important;
+        }
+    }
+
+    .main-header-right .nav-link.icon {
+        color: #fff;
+    }
+
+    .main-header-menu-icon span {
+        background-color: #fff;
+
+        &::before,
+        &::after {
+            background-color: #fff;
+        }
+    }
+
+    .main-header-message > a,
+    .main-header-notification > a {
+        color: rgb(var(--white));
+    }
+
+    @media (max-width: 992px) {
+        .theme-logo {
+            display: block !important;
+        }
+        .desktop-logo-dark {
+            display: none !important;
+        }
+        .navbar-toggler-icon {
+            --color: #d7d9db;
+        }
+        .responsive-navbar.navbar .navbar-collapse {
+            background: linear-gradient(to right, $primary 0%, #3790a2 100%);
+        }
+    }
+    @media (max-width: 991px) {
+        .responsive-navbar.navbar .navbar-collapse {
+            border-block-start: 1px solid rgba(225, 230, 241, 0.22);
+        }
+    }
+}
+  
+.app.sidebar-mini.gradient-header {
+    .header-brand-img.desktop-logo {
+        display: none !important;
+
+        &.theme-logo {
+            display: block !important;
+        }
+    }
+
+    .nav-link.toggle span {
+        background-color: rgb(var(--white));
+
+        &::before,
+        &::after {
+            background-color: rgb(var(--white));
+        }
+    }
+}
+  
+.dark-theme {
+    &.gradient-header .main-header-center .form-control {
+        border-color: transparent;
+        background-color: rgb(var(--white));
+
+        &:focus {
+            background-color: rgb(var(--white));
+            border-color: transparent;
+            color: $black;
+        }
+    }
+
+    &.light-horizontal .side-menu {
+        background-color: rgb(var(--white));
+
+        .nav-link {
+        color: #1c273c;
+        }
+
+        .nav-item {
+            &.active .nav-link,
+            &:hover .nav-link {
+                color: $primary;
+            }
+        }
+    }
+
+    &.light-menu .main-sidebar-body,
+    &.color-menu .main-sidebar-body,
+    &.dark-menu .main-sidebar-body,
+    &.gradient-menu .main-sidebar-body {
+        border-block-start: 0px solid #f1f0f0e3;
+    }
+
+    &.light-menu {
+        .side-menu {
+            background: rgb(var(--white));
+        }
+
+        .sidemenu-logo {
+            background: rgb(var(--white));
+            border-inline-end: 1px solid #f1f0f0;
+            border-block-end: 1px solid #f1f0f0;
+        }
+
+        .side-menu .sidemenu-logo .header-brand-img.desktop-logo {
+            display: block !important;
+
+            &.theme-logo {
+                display: none !important;
+            }
+        }
+
+        .main-sidemenu {
+            .nav-label {
+                color: #99a6b7;
+            }
+
+            .nav-link {
+                color: #1c273c;
+            }
+
+            border-block-start: 0px solid $border;
+
+            .nav-item {
+                &.active .nav-link,
+                &:hover .nav-link {
+                    color: $primary;
+                }
+            }
+
+            .nav-sub-link {
+                color: $black;
+            }
+
+            .nav-sub .nav-sub-link:before {
+                color: #68798b;
+            }
+
+            .nav-sub-link {
+                &:hover,
+                &:focus {
+                    color: $primary;
+                }
+            }
+        }
+
+        &.main-sidebar-hide {
+            .side-menu .main-logo {
+                .icon-logo {
+                    display: block !important;
+                }
+
+                .desktop-logo,
+                .icon-logo.theme-logo {
+                    display: none !important;
+                }
+            }
+
+            &.main-sidebar-open .side-menu .main-logo {
+                .desktop-logo {
+                    display: block !important;
+
+                    &.theme-logo {
+                        display: none !important;
+                    }
+                }
+
+                .icon-logo {
+                    display: none !important;
+                }
+            }
+        }
+
+        .main-sidemenu .nav-sub-item.active > .nav-sub-link {
+            color: $primary;
+        }
+    }
+}
+
+/*-- Gradient-header --*/

@@ -1,0 +1,188 @@
+2026-09-10 13:51:34.6613|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion)
+2026-09-10 14:07:31.0673|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion)
+2026-09-10 15:24:28.5679|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 15:24:29.0821|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 15:31:30.0685|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 15:31:30.6672|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:31:24.2259|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:31:25.0776|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:54:59.5596|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:54:59.9588|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:55:52.6013|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:56:03.0052|Error|Datos.Comunes.FuncionesDatos|Error en 'GetPerfil': 'Could not find specified column in results: PER_VIGENTE_NOMBRE'|System.IndexOutOfRangeException: Could not find specified column in results: PER_VIGENTE_NOMBRE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Perfil.PerfilDatos.MapearPerfil(IDataRecord reader) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 165
+   en Datos.v1.Perfil.PerfilDatos.GetPerfil(Int32& operacion, UInt32 perfilId) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 87
+2026-09-10 16:56:03.5820|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:56:04.0069|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:56:07.8931|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:56:11.5361|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:56:15.1206|Error|Datos.Comunes.FuncionesDatos|Error en 'GetPerfil': 'Could not find specified column in results: PER_VIGENTE_NOMBRE'|System.IndexOutOfRangeException: Could not find specified column in results: PER_VIGENTE_NOMBRE
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   en Datos.v1.Perfil.PerfilDatos.MapearPerfil(IDataRecord reader) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 165
+   en Datos.v1.Perfil.PerfilDatos.GetPerfil(Int32& operacion, UInt32 perfilId) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Perfil\PerfilDatos.cs:línea 87
+2026-09-10 16:56:15.5280|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:56:16.1742|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:56:27.8808|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 16:56:32.3435|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 17:13:52.5110|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 17:13:53.0828|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84
+2026-09-10 17:14:40.0619|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModulos': 'Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.'|System.ArgumentException: Parameter 'P_MOD_MENU_VISIBLE' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModulos(Int32& operacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 84

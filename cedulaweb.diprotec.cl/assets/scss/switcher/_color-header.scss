@@ -1,0 +1,123 @@
+/*-- Color-header --*/
+
+[data-header-style="color"] {
+
+    .main-header {
+        background: $primary;
+        border-block-end: 1px solid #ffffff1a !important;
+    }
+
+    .input-icon {
+        .header-search.form-control {
+            background-color: rgba(255,255,255,0.1);
+            border-color: rgba(255,255,255,0.1);
+            color: #fff;
+            &::placeholder {
+                color: rgba(255,255,255,0.4);
+            }
+            &:focus {
+                border-color: rgba(255,255,255,0.5);
+            }
+        }
+        .input-icon-addon {
+            .header-serach-btn {
+                color: rgba(255,255,255,0.4);
+            }
+        }
+    }
+
+    .hor-header .header-brand-img.desktop-logo {
+        display: none !important;
+
+        &.theme-logo {
+            display: block !important;
+        }
+    }
+
+    .main-header-right .nav-link.icon {
+        color: #fff;
+    }
+
+    .main-header-menu-icon span {
+        background-color: #fff;
+
+        &::before,
+        &::after {
+            background-color: #fff;
+        }
+    }
+
+    .main-header-center .form-control {
+        border-color: transparent;
+    }
+
+    .main-header-message > a,
+    .main-header-notification > a {
+        color: rgb(var(--white));
+    }
+    @media (max-width:992px) { 
+            .theme-logo {
+                display: block !important;
+            }
+            .desktop-logo-dark {
+                display: none !important;
+            }
+            .navbar-toggler-icon {
+                --color: #d7d9db;
+            }
+            .responsive-navbar.navbar .navbar-collapse {
+                background-color: $primary !important;
+                border-block-start-color: rgba(255,255,255,0.3);
+            }
+    
+    }
+    
+}
+  
+.app.sidebar-mini.color-header {
+    .header-brand-img.desktop-logo {
+        display: none !important;
+
+        &.theme-logo {
+            display: block !important;
+        }
+    }
+
+    .nav-link.toggle span {
+        background-color: rgb(var(--white));
+
+        &::before,
+        &::after {
+            background-color: rgb(var(--white));
+        }
+    }
+}
+  
+.dark-theme.color-header {
+    .main-header {
+        background: $primary;
+        border-block-end: 1px solid #8f6bf9 !important;
+    }
+
+    .main-header-center .form-control {
+        border-color: transparent;
+        background-color: rgb(var(--white));
+
+        &:focus {
+            background-color: rgb(var(--white));
+            border-color: transparent;
+            color: $black;
+        }
+    }
+    
+}
+
+[data-header-style="light"] {
+    .main-header {
+        background: $fixed-white;
+        border-block-end: 1px solid #e1e6f1 !important;
+    }
+    
+}
+  
+/*-- Color-header --*/

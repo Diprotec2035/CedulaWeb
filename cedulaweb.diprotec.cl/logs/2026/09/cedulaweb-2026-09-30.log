@@ -1,0 +1,28 @@
+2026-09-30 14:10:28.5703|Error|Datos.EmpresaVisitaDatos|Error en 'InsertEmpresaVisita' con empresa '76001910-0': 'La cadena de entrada no tiene el formato correcto.'|System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Convert.ToInt16(String value)
+   en Datos.EmpresaVisitaDatos.ValidateRut(String rut) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Visitas\EmpresaVisitaDatos.cs:línea 441
+   en Datos.EmpresaVisitaDatos.ImportVisita(EmpresaUsuarioModelo usuario, String empresa, String contenidoArchivo, String nombreArchivo) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Visitas\EmpresaVisitaDatos.cs:línea 248
+2026-09-30 14:10:49.9231|Error|Datos.EmpresaVisitaDatos|Error en 'InsertEmpresaVisita' con empresa '76001910-0': 'La cadena de entrada no tiene el formato correcto.'|System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Convert.ToInt16(String value)
+   en Datos.EmpresaVisitaDatos.ValidateRut(String rut) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Visitas\EmpresaVisitaDatos.cs:línea 441
+   en Datos.EmpresaVisitaDatos.ImportVisita(EmpresaUsuarioModelo usuario, String empresa, String contenidoArchivo, String nombreArchivo) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Visitas\EmpresaVisitaDatos.cs:línea 248
+2026-09-30 14:15:36.8266|Error|Datos.EmpresaVisitaDatos|Error en 'InsertEmpresaVisita' con empresa '76001910-0': 'La cadena de entrada no tiene el formato correcto.'|System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Convert.ToInt16(String value)
+   en Datos.EmpresaVisitaDatos.ValidateRut(String rut) en C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Datos\v1\Visitas\EmpresaVisitaDatos.cs:línea 441
+   en Datos.EmpresaVisitaDatos.ImportVisita(EmpresaUsuarioModelo usuario, String empresa, String contenidoArchivo, String nombreArchivo) en C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Datos\v1\Visitas\EmpresaVisitaDatos.cs:línea 248
+2026-09-30 14:16:07.3940|Error|Datos.EmpresaVisitaDatos|Error en 'InsertEmpresaVisita' con empresa '76001910-0': 'La cadena de entrada no tiene el formato correcto.'|System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Convert.ToInt16(String value)
+   en Datos.EmpresaVisitaDatos.ValidateRut(String rut) en C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Datos\v1\Visitas\EmpresaVisitaDatos.cs:línea 441
+   en Datos.EmpresaVisitaDatos.ImportVisita(EmpresaUsuarioModelo usuario, String empresa, String contenidoArchivo, String nombreArchivo) en C:\Users\ggarrote\Documents\Cedula_Nuevo\cedulaweb.diprotec.cl\Datos\v1\Visitas\EmpresaVisitaDatos.cs:línea 248

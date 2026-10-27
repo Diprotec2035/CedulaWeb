@@ -1,0 +1,54 @@
+2026-05-28 12:21:40.4304|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Procedure or function 'SP_SEL_EMPRESA_USUARIO_ESPECIFIC' cannot be found in database '' Verify that user 'UsuarioRuntime'@'172.16.0.11' has enough privileges to execute'|MySql.Data.MySqlClient.MySqlException (0x80004005): Procedure or function 'SP_SEL_EMPRESA_USUARIO_ESPECIFIC' cannot be found in database '' Verify that user 'UsuarioRuntime'@'172.16.0.11' has enough privileges to execute
+   en MySql.Data.MySqlClient.ProcedureCache.GetProcData(MySqlConnection connection, String spName)
+   en MySql.Data.MySqlClient.ProcedureCache.GetProcedure(MySqlConnection conn, String spName, String cacheKey)
+   en MySql.Data.MySqlClient.StoredProcedure.GetParameters(String procName)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 116
+2026-05-28 12:27:21.6591|Error|Datos.EmpresaUsuarioDatos|Error en 'GetEmpresaUsuario': 'Procedure or function 'SP_SEL_EMPRESA_USUARIO_ESPECIFIC' cannot be found in database '' Verify that user 'UsuarioRuntime'@'172.16.0.11' has enough privileges to execute'|MySql.Data.MySqlClient.MySqlException (0x80004005): Procedure or function 'SP_SEL_EMPRESA_USUARIO_ESPECIFIC' cannot be found in database '' Verify that user 'UsuarioRuntime'@'172.16.0.11' has enough privileges to execute
+   en MySql.Data.MySqlClient.ProcedureCache.GetProcData(MySqlConnection connection, String spName)
+   en MySql.Data.MySqlClient.ProcedureCache.GetProcedure(MySqlConnection conn, String spName, String cacheKey)
+   en MySql.Data.MySqlClient.StoredProcedure.GetParameters(String procName)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.EmpresaUsuarioDatos.GetEmpresaUsuario(Int32& operacion, EmpresaUsuarioModelo user) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Usuario\EmpresaUsuarioDatos.cs:línea 116
+2026-05-28 16:25:01.4852|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModuloUsuario' con empresa '76001910-0': 'Unknown column 'CA.CAT_VIGENTE' in 'where clause''|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CA.CAT_VIGENTE' in 'where clause'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModuloUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 28
+2026-05-28 18:07:32.0431|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModuloUsuario' con empresa '': 'Unknown column 'CA.CAT_VIGENTE' in 'where clause''|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CA.CAT_VIGENTE' in 'where clause'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModuloUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 28
+2026-05-28 21:53:23.3308|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModuloUsuario' con empresa '': 'Unknown column 'CA.CAT_VIGENTE' in 'where clause''|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CA.CAT_VIGENTE' in 'where clause'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModuloUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 28
+2026-05-28 21:54:18.1583|Error|Datos.v1.Modulo.ModuloDatos|Error en 'GetModuloUsuario' con empresa '': 'Unknown column 'CA.CAT_VIGENTE' in 'where clause''|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CA.CAT_VIGENTE' in 'where clause'
+   en MySql.Data.MySqlClient.MySqlStream.CheckForServerError()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32 affectedRow, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32 affectedRows, Int64 insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult(CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Modulo.ModuloDatos.GetModuloUsuario(Int32& operacion, EmpresaUsuarioModelo usuario) en C:\Users\csalazar\Desktop\Diprotec\website\esencial\cedulaweb.diprotec.cl\Datos\v1\Modulo\ModuloDatos.cs:línea 28

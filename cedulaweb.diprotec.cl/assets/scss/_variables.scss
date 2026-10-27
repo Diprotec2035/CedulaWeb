@@ -1,0 +1,332 @@
+/*---  Variables  ---*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+:root {
+    --primary-rgb: 23, 183, 148;
+    --primary-bg-rgb:  16, 19, 41;
+    --primary-bg-color: rgb(var(--primary-rgb));
+    --primary-bg-border: rgb(var(--primary-rgb));
+    --primary-bg-hover: rgb(var(--primary-rgb), 0.7);
+
+    --primary005: rgb(var(--primary-rgb), 0.05);
+    --primary-05: rgb(var(--primary-rgb), 0.5);
+    --primary01: rgb(var(--primary-rgb), 0.1);
+    --primary02: rgb(var(--primary-rgb), 0.2);
+    --primary03: rgb(var(--primary-rgb), 0.3);
+    --primary04: rgb(var(--primary-rgb), 0.4);
+    --primary05: rgb(var(--primary-rgb), 0.5);
+    --primary06: rgb(var(--primary-rgb), 0.6);
+    --primary07: rgb(var(--primary-rgb), 0.7);
+    --primary08: rgb(var(--primary-rgb), 0.8);
+    --primary09: rgb(var(--primary-rgb), 0.9);
+
+    /*white variables*/
+    --white: 255, 255, 255;
+    --fixed-white: #fff;
+    --white-1: rgba(255, 255, 255, 0.1);
+    --white-2: rgba(255, 255, 255, 0.2);
+    --white-3: rgba(255, 255, 255, 0.3);
+    --white-4: rgba(255, 255, 255, 0.4);
+    --white-5: rgba(255, 255, 255, 0.5);
+    --white-6: rgba(255, 255, 255, 0.6);
+    --white-7: rgba(255, 255, 255, 0.7);
+    --white-8: rgba(255, 255, 255, 0.8);
+    --white-9: rgba(255, 255, 255, 0.9);
+    --white-05: rgba(255, 255, 255, 0.05);
+    --white-08: rgba(255, 255, 255, 0.08);
+    --white-75: rgba(255, 255, 255, 0.075);
+
+    /*black variables*/
+    --black-1: rgba(0, 0, 0, 0.1);
+    --black-2: rgba(0, 0, 0, 0.2);
+    --black-3: rgba(0, 0, 0, 0.3);
+    --black-4: rgba(0, 0, 0, 0.4);
+    --black-5: rgba(0, 0, 0, 0.5);
+    --black-6: rgba(0, 0, 0, 0.6);
+    --black-7: rgba(0, 0, 0, 0.7);
+    --black-8: rgba(0, 0, 0, 0.8);
+    --black-9: rgba(0, 0, 0, 0.9);
+    --black-05: rgba(0, 0, 0, 0.05);
+
+    /*general*/
+    --header-bg: 255, 255, 255;
+    --menu-bg: 255, 255, 255;
+    --color: #334151;
+    --dark: #030303;
+    --light: #f2f2f9;
+    --menu-primary: rgb(var(--primary-rgb));
+
+    --float-start: left;
+    --float-end: right;
+
+    /*Shadow*/
+    --shadow-color:rgba(162, 169, 204, .24);
+
+    --border: #e9edf4;
+    --background: #f6f6fb;
+    --light: #f7f8f9;
+    --bg-gray-100: #f9f9fb;
+    --bg-gray-200: #f0f0f8;
+    --bg-gray-300: #e1e1ef;
+    --bg-gray-400: #d6d6e6;
+    --bg-gray-500: #949eb7;
+    --bg-gray-600: #7987a1;
+    --bg-gray-700: #4d5875;
+    --bg-gray-800: #3c4764;
+    --bg-gray-900: #323251;
+
+
+    //colors
+    --secondary-rgb: 246, 134, 106;
+    --pink-rgb: 236, 130, 239;
+    --teal-rgb: 43, 203, 186;
+    --purple-rgb: 134, 126, 252;
+    --success-rgb: 84, 183, 92;
+    --warning-rgb: 252, 161, 58;
+    --danger-rgb: 255, 111, 123;
+    --info-rgb: 69, 170, 242;
+    --orange-rgb: 252, 161, 58;
+    --red-rgb: 251, 13, 13;
+    --lime-rgb: 13, 224, 13;
+    --dark-rgb: 3, 3, 3;
+    --indigo-rgb: 77, 106, 152;
+    --cyan-rgb: 23, 162, 184;
+    --light-rgb: 242, 242, 249;
+    --green-rgb: 14, 239, 4;
+    --blue-rgb: 7, 104, 241;
+    --yellow-rgb: 252, 161, 58;
+    --maroon-rgb: 199, 25, 25;
+    --aqua-rgb: 3, 241, 241;
+    --gray-rgb: 140, 145, 150;
+    --darkgray-rgb: 52, 58, 64;
+    --azure-rgb: 69, 170, 242;
+    --black-rgb: 0, 0, 0;
+    --muted-rgb: 153, 166, 183;
+
+
+    --secondary: rgb(var(--secondary-rgb));
+    --pink: rgb(var(--pink-rgb));
+    --teal: rgb(var(--teal-rgb));
+    --purple: rgb(var(--purple-rgb));
+    --success: rgb(var(--success-rgb));
+    --warning: rgb(var(--warning-rgb));
+    --danger: rgb(var(--danger-rgb));
+    --info: rgb(var(--info-rgb));
+    --orange: rgb(var(--orange-rgb));
+    --red: rgb(var(--red-rgb));
+    --lime: rgb(var(--lime-rgb));
+    --dark: rgb(var(--dark-rgb));
+    --indigo: rgb(var(--indigo-rgb));
+    --cyan: rgb(var(--cyan-rgb));
+    --light: rgb(var(--light-rgb));
+    --green: rgb(var(--green-rgb));
+    --blue: rgb(var(--blue-rgb));
+    --yellow: rgb(var(--yellow-rgb));
+    --maroon: rgb(var(--maroon-rgb));
+    --aqua: rgb(var(--aqua-rgb));
+    --gray: rgb(var(--gray-rgb));
+    --darkgray: rgb(var(--darkgray-rgb));
+    --azure: rgb(var(--azure-rgb));
+    // --white: rgb(var(--white-rgb));
+    --black: rgb(var(--black-rgb));
+    --muted: rgb(var(--muted-rgb));
+
+
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+$primary: var(--primary-bg-color);
+$primary-01: var(--primary01);
+$primary-02: var(--primary02);
+$primary-03: var(--primary03);
+$primary-06: var(--primary06);
+$primary-09: var(--primary09);
+$primary-05: var(--primary-05);
+$primary-005: var(--primary005);
+
+$primary-hover: var(--primary-bg-hover);
+$primary-border: var(--primary-bg-border);
+
+$secondary: var(--secondary);
+$pink: var(--pink);
+$teal: var(--teal);
+$purple: var(--purple);
+$success: var(--success);
+$warning: var(--warning);
+$danger: var(--danger);
+$info: var(--info);
+$orange: var(--orange);
+$red: var(--red);
+$lime: var(--lime);
+$dark: var(--dark);
+$indigo: var(--indigo);
+$cyan: var(--cyan);
+$light: var(--light);
+$green: var(--green);
+$blue: var(--blue);
+$yellow: var(--yellow);
+$maroon: var(--maroon);
+$aqua: var(--aqua);
+$gray: var(--gray);
+$darkgray: var(--darkgray);
+$azure: var(--azure);
+$white: var(--white);
+$black: var(--black);
+$muted: var(--muted);
+
+/*Gradient variables*/
+$primary-gradient: linear-gradient(to bottom right, $primary 0%, #8e77fa 100%);
+$secondary-gradient: linear-gradient(to bottom right, #82cff2 0%, #28b7f9 100%);
+$warning-gradient: linear-gradient(to bottom right, #f66b4e 0%, #fbc434 100%);
+$info-gradient: linear-gradient(to bottom right, #1e63c3 0%, #00f2fe 100%);
+$danger-gradient: linear-gradient(to bottom right, #b51b35 0%, #fd4a68 100%);
+$success-gradient: linear-gradient(to bottom right, #1ea38f 0%, #5cf9e2 100%);
+
+/*white variables*/
+$white: var(--white);
+$fixed-white: var(--fixed-white);
+$white-1: var(--white-1);
+$white-2: var(--white-2);
+$white-3: var(--white-3);
+$white-4: var(--white-4);
+$white-5: var(--white-5);
+$white-6: var(--white-6);
+$white-7: var(--white-7);
+$white-8: var(--white-8);
+$white-9: var(--white-9);
+$white-05: var(--white-05);
+$white-08: var(--white-08);
+$white-75: var(--white-75);
+$light: var(--light);
+
+/*black variables*/
+$black-1: var(--black-1);
+$black-2: var(--black-2);
+$black-3: var(--black-3);
+$black-4: var(--black-4);
+$black-5: var(--black-5);
+$black-6: var(--black-6);
+$black-7: var(--black-7);
+$black-8: var(--black-8);
+$black-9: var(--black-9);
+$black-05: var(--black-05);
+
+/*general variables*/
+$color: var(--color);
+$dark: var(--dark);
+$light: var(--light);
+$header-bg: rgb(var(--header-bg));
+$sidemenu-bg: rgb(var(--menu-bg));
+$menu-primary: var(--menu-primary);
+$bg-gray-100: var(--bg-gray-100);
+$bg-gray-200: var(--bg-gray-200);
+$bg-gray-300: var(--bg-gray-300);
+$bg-gray-400: var(--bg-gray-400);
+$bg-gray-500: var(--bg-gray-500);
+$bg-gray-600: var(--bg-gray-600);
+$bg-gray-700: var(--bg-gray-700);
+$bg-gray-800: var(--bg-gray-800);
+$bg-gray-900: var(--bg-gray-900);
+
+
+/*border variables*/
+$border: var(--border);
+$background: var(--background);
+
+/*Float variables*/
+$float-start: var(--float-start);
+$float-end: var(--float-end);
+
+/*Shadow*/
+$shadow: 0 3px 16px 0 var(--shadow-color);
+
+
+
+[data-theme-color="dark"] {
+    --background: rgba(var(--primary-bg-rgb),0.85);
+    --color: #d7d9db;
+    --white: 28, 28, 56;
+    --fixed-white: #fff;
+    --black: #fff;
+    --muted: rgba(255, 255, 255, 0.4);
+    --light: #17171c;
+    --dark: #f2f2f9;
+    --primary-bg-hover: rgba(255, 255, 255, 0.05);
+    --primary-bg-active: rgba(255, 255, 255, 0.1);
+    --bg-gray-100: var(--white-1);
+    --bg-gray-200: var(--white-1);
+    --bg-gray-300: var(--white-2);
+    --bg-gray-400: var(--white-3);
+    --bg-gray-500: var(--white-4);
+    --bg-gray-600: var(--white-5);
+    --bg-gray-700: var(--white-6);
+    --bg-gray-800: var(--white-7);
+    --bg-gray-900: var(--white-9);
+    --gray-100: #110f0f;
+    --gray-200: #17171c;
+    --gray-300: #393946;
+    --gray-600: #e3e3e8;
+    --gray-700: #ababba;
+    --gray-800: #c7c7d1;
+    --border: rgba(255, 255, 255, 0.1);
+    --form-border: rgba(255, 255, 255, 0.15);
+    --shadow-color: rgba(0, 0, 0, 0.25);
+    --bg-hover: rgba(0, 0, 0, 0.2);
+    --bg-white: rgba(0, 0, 0, 0.2);
+    --white-1: rgba(0, 0, 0, 0.1);
+    --white-2: rgba(0, 0, 0, 0.2);
+    --white-3: rgba(0, 0, 0, 0.3);
+    --white-4: rgba(0, 0, 0, 0.4);
+    --white-5: rgba(0, 0, 0, 0.5);
+    --white-6: rgba(0, 0, 0, 0.6);
+    --white-7: rgba(0, 0, 0, 0.7);
+    --white-8: rgba(0, 0, 0, 0.8);
+    --white-9: rgba(0, 0, 0, 0.9);
+    --white-05: rgba(0, 0, 0, 0.05);
+    --white-08: rgba(0, 0, 0, 0.08);
+    --white-75: rgba(0, 0, 0, 0.075);
+    --black-1: rgba(255, 255, 255, 0.1);
+    --black-2: rgba(255, 255, 255, 0.2);
+    --black-3: rgba(255, 255, 255, 0.3);
+    --black-4: rgba(255, 255, 255, 0.4);
+    --black-5: rgba(255, 255, 255, 0.5);
+    --black-6: rgba(255, 255, 255, 0.6);
+    --black-7: rgba(255, 255, 255, 0.7);
+    --black-8: rgba(255, 255, 255, 0.8);
+    --black-9: rgba(255, 255, 255, 0.9);
+    --black-03: rgba(255, 255, 255, 0.03);
+    --black-05: rgba(255, 255, 255, 0.05);
+    --menu-bg: 28, 28, 56;
+    --header-bg: 28, 28, 56;
+
+    [data-header-style="gradient"],
+    [data-header-style="color"] {
+        .main-header-right .nav-link.icon {
+            color: (--color);
+        }
+
+        .main-header-menu-icon span::before,
+        .main-header-menu-icon span::after {
+            color: (--color);
+        }
+
+        .main-header-menu-icon span {
+            color: (--color);
+        }
+    }
+}
+
+
+[dir=rtl] {
+    --float-start: right;
+    --float-end: left;
+}
+
+/*---  Variables  ---*/

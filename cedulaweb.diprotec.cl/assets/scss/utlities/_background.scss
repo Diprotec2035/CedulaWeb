@@ -1,0 +1,396 @@
+/*---  Background  ---*/
+
+.bg-gray-100 {
+  background-color: $bg-gray-100;
+}
+
+.bg-gray-200 {
+  background-color: $bg-gray-200;
+}
+
+.bg-gray-300 {
+  background-color: $bg-gray-300;
+}
+
+.bg-gray-400 {
+  background-color: $bg-gray-400;
+}
+
+.bg-gray-600 {
+  background-color: $bg-gray-600;
+}
+.bg-gray-500 {
+  background-color: $bg-gray-500;
+}
+
+.bg-gray-700 {
+  background-color: $bg-gray-700;
+}
+
+.bg-gray-800 {
+  background-color: $bg-gray-800;
+}
+
+.bg-gray-900 {
+  background-color: $bg-gray-900;
+}
+
+.bg-white-1 {
+  background-color: $white-1;
+}
+
+.bg-white-2 {
+  background-color: $white-2;
+}
+
+.bg-white-3 {
+  background-color: $white-3;
+}
+
+.bg-white-4 {
+  background-color: $white-4;
+}
+
+.bg-white-5 {
+  background-color: $white-5;
+}
+
+.bg-white-6 {
+  background-color: $white-6;
+}
+
+.bg-white-7 {
+  background-color: $white-7;
+}
+
+.bg-white-8 {
+  background-color: $white-8;
+}
+
+.bg-white-9 {
+  background-color: $white-9;
+}
+
+.bg-black-1 {
+  background-color: $black-1;
+}
+
+.bg-black-2 {
+  background-color: $black-2;
+}
+
+.bg-black-3 {
+  background-color: $black-3;
+}
+
+.bg-black-4 {
+  background-color: $black-4;
+}
+
+.bg-black-5 {
+  background-color: $black-5;
+}
+
+.bg-black-6 {
+  background-color: $black-6;
+}
+
+.bg-black-7 {
+  background-color: $black-7;
+}
+
+.bg-black-8 {
+  background-color: $black-8;
+}
+
+.bg-black-9 {
+  background-color: $black-9;
+}
+
+.bg-primary-dark {
+  background-color: $primary;
+}
+
+.bg-indigo {
+  background-color: $indigo;
+}
+.bg-blue {
+  background-color: $blue;
+}
+.bg-red {
+  background-color: $red;
+}
+.bg-darkgray {
+  background-color: $darkgray;
+}
+.bg-purple {
+  background-color: $purple;
+  color: $fixed-white;
+}
+
+.bg-pink {
+  background-color: $pink;
+}
+
+.bg-orange {
+  background-color: $orange;
+}
+
+.bg-teal {
+  background-color: $teal;
+}
+.bg-maroon{
+  background-color: $maroon;
+}
+.bg-aqua{
+  background-color: $aqua;
+}
+.bg-azure {
+  background-color: $azure;
+}
+.bg-cyan {
+  background-color: $cyan;
+}
+.bg-yellow {
+  background-color: $yellow;
+}
+.bg-gray {
+  background-color: $gray;
+}
+.bg-lime {
+  background-color: $lime;
+}
+.bg-green {
+  background-color: $green;
+}
+
+.bg-purple-dark {
+  background-color: #59339d;
+}
+
+.bg-primary {
+  background-color: $primary !important;
+  color: $fixed-white;
+  &:hover {
+    color: $fixed-white;
+  }
+}
+
+.bg-secondary {
+  background-color: $secondary !important;
+  color: $fixed-white;
+}
+
+a.bg-secondary {
+  &:hover, &:focus {
+   background-color: $secondary !important;
+   color: $fixed-white;
+  }
+}
+
+button.bg-secondary {
+  &:hover, &:focus {
+    background-color: $secondary !important;
+  }
+}
+
+.bg-success {
+  background-color: $success !important;
+  color: $fixed-white;
+}
+
+a.bg-success {
+  &:hover, &:focus {
+    background-color: $success !important;
+    color: $fixed-white;
+  }
+}
+
+button.bg-success {
+  &:hover, &:focus {
+    background-color: $success !important;
+  }
+}
+
+.bg-info {
+  background-color: $info !important;
+  color: $fixed-white;
+}
+
+a.bg-info {
+  &:hover, &:focus {
+    background-color: $info !important;
+    color: $fixed-white;
+  }
+}
+
+button.bg-info {
+  &:hover, &:focus {
+    background-color: $info !important;
+  }
+}
+
+.bg-warning {
+  background-color: $warning !important;
+  color: $fixed-white;
+}
+
+a.bg-warning {
+  &:hover, &:focus {
+    background-color: $warning !important;
+    color: $fixed-white
+  }
+}
+
+button.bg-warning {
+  &:hover, &:focus {
+    background-color: $warning !important;
+  }
+}
+
+.bg-danger {
+  background-color: $danger !important;
+  color: $fixed-white;
+}
+
+a.bg-danger {
+  &:hover, &:focus {
+    background-color: $danger !important;
+  }
+}
+
+button.bg-danger {
+  &:hover, &:focus {
+    background-color: $danger !important;
+  }
+}
+
+.bg-light {
+  background-color: $background !important;
+}
+
+a.bg-light {
+  &:hover, &:focus {
+    background-color: #dbe0ea !important;
+  }
+}
+
+button.bg-light {
+  &:hover, &:focus {
+    background-color: #dbe0ea !important;
+  }
+}
+
+.bg-dark {
+  background-color: #3b4863 !important;
+  color: $fixed-white;
+}
+
+a.bg-dark {
+  &:hover, &:focus {
+    background-color: #131212 !important;
+  }
+}
+
+button.bg-dark {
+  &:hover, &:focus {
+    background-color: #131212 !important;
+  }
+}
+
+.bg-white {
+  background-color: rgb(var(--white)) !important;
+}
+.bg-muted {
+  background-color: $muted !important;
+  border-radius: 3px;
+}
+.bg-black {
+  background-color: $black !important;
+}
+.bg-gray + .select2-container--default .select2-selection--single {
+  background-color: #455473;
+
+  .select2-selection__rendered {
+    color:$border;
+  }
+}
+
+
+/*-- Bg-transparent---*/
+
+.bg-success-transparent {
+  background-color: rgba(var(--success-rgb), 0.1) !important;
+	color: $success;
+	border-color: rgba(var(--success-rgb), 0.1);
+  &:hover {
+    border-color: rgba(var(--success-rgb), 0.1);
+  }
+}
+
+.bg-secondary-transparent {
+  background-color: rgba(var(--secondary-rgb), 0.1) !important;
+  color: $secondary;
+	border-color: rgba(var(--secondary-rgb), 0.1);
+  &:hover {
+    border-color: rgba(var(--secondary-rgb), 0.1);
+  }
+}
+
+.bg-primary-transparent {
+  background-color:rgba(var(--primary-rgb), 0.1);
+}
+
+.bg-info-transparent {
+  background-color: rgba(var(--info-rgb), 0.1) !important;
+  color: $danger;
+	border-color: rgba(var(--info-rgb), 0.1);
+  &:hover {
+    border-color: rgba(var(--info-rgb), 0.1);
+  }
+}
+
+.bg-warning-transparent {
+  background-color: rgba(var(--warning-rgb), 0.1);
+  color: $warning;
+	border-color: rgba(var(--warning-rgb), 0.1);
+  &:hover {
+    border-color: rgba(var(--warning-rgb), 0.1);
+  }
+}
+
+.bg-danger-transparent {
+  background-color: rgba(var(--danger-rgb), 0.1) !important;
+	color: $danger;
+	border-color: rgba(var(--danger-rgb), 0.1);
+  &:hover {
+    border-color: rgba(var(--danger-rgb), 0.1);
+  }
+}
+.bg-blue-transparent {
+  background-color: rgba(var(--blue-rgb), 0.1) !important;
+	color: $blue;
+	border-color: rgba(var(--blue-rgb), 0.1);
+  &:hover {
+    border-color: rgba(var(--blue-rgb), 0.1);
+  }
+}
+
+.bg-pink-transparent {
+  background-color: rgba(var(--pink-rgb), 0.1);
+}
+
+.bg-purple-transparent {
+  background-color: rgba(var(--purple-rgb), 0.1);
+}
+
+.bg-dark-transparent {
+  background-color: rgba(var(--dark-rgb), 0.1);
+}
+
+.bg-white-transparent {
+  background-color: rgba(var(--white-rgb), 0.1);
+}
+
+
+/*---  Background  ---*/

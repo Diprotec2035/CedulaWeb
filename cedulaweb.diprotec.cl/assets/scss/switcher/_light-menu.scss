@@ -1,0 +1,135 @@
+[data-menu-style="light"] {
+    .app-sidebar {
+        --menu-bg: 255,255,255;
+        --border: #ebebeb;
+        --color: #717f91;
+        --background: #f4f3f9;
+    }
+
+    .app-sidebar__header {
+        background: #fff;
+    }
+
+    .side-menu__item {
+        &.active .side-menu__icon, &:hover .side-menu__icon, &:focus .side-menu__icon {
+            border-color: rgba(255, 255, 255, 0.1);
+        }
+    }
+
+    .sidebar-mini.sidenav-toggled.show-sidenav .side-menu__item.help-support {
+        display: flex; 
+        text-align: start;
+    }
+    
+    .mobile-logo, .desktop-logo {
+            display: none !important;
+    }
+    
+    .desktop-logo-dark {
+        display: block !important;
+    }
+    
+
+    .side-menu__icon {
+        border-color: #{$border};
+    }
+
+    @media (min-width: 992px) {
+        &[data-vertical-style="hover"],
+        &[data-vertical-style="hover1"] {
+            @media (min-width: 992px) {
+                .app.show-sidenav .app-sidebar__header {
+
+                    .desktop-logo {
+                        display: none !important;
+                    }
+
+                    .mobile-logo {
+                        display: none !important;
+                    }
+
+                    .mobile-logo-dark {
+                        display: block !important;
+                    }
+                }
+            }
+        }
+
+        &[data-vertical-style="doublemenu"],
+        &[data-vertical-style="doublemenu-tabs"] {
+            @media (min-width: 992px) {
+            .app-sidebar__header {
+
+                    .desktop-logo {
+                        display: none !important;
+                    }
+
+                    .mobile-logo {
+                        display: none !important;
+                    }
+
+                    .mobile-logo-dark {
+                        display: block !important;
+                    }
+                }
+            }
+        }
+    }
+
+    @media (min-width: 992px) {
+        .sidenav-toggled .main-logo .mobile-logo-dark {
+            display: block !important;
+        }
+        .sidenav-toggled .main-logo .desktop-logo-dark {
+            display: none !important;
+        }
+        .show-sidenav .main-logo .mobile-logo-dark {
+            display: none !important;
+        }
+        .show-sidenav .main-logo .desktop-logo-dark {
+            display: block !important;
+        }
+    }
+
+    .app-sidebar__user {
+        color: #717f91;
+    }
+
+    .ps__rail-y.ps--clicking .ps__thumb-y {
+        background-color: rgba(0, 0, 0, 0.3);
+    }
+
+    .ps .ps__rail-y.ps--clicking {
+        background-color: transparent;
+    }
+
+    .ps .ps__rail-y {
+        &:hover, &:focus {
+            background-color: #a8a9ab;
+        }
+    }
+
+    .ps__thumb-y {
+        background-color: #cbcfd7;
+    }
+
+    @media (min-width: 992px) {
+        &[data-vertical-style="doublemenu-tabs"] {
+            .sidetab-menu {
+                --muted: #a8b1bd;
+                --white: #fff;
+                --gray-200: #f2f4f5;
+                --gray-300: #e6eaeb;
+                --gray-800: #383853;
+                --color: #717f91;
+                --form-border: #e1e1e1;
+            }
+        }
+    }
+     .tab-pane h5 {
+        color: $color;
+    }
+    .tab-pane .item-activity p {
+        color: $color;
+    }
+}

@@ -1,0 +1,24 @@
+2026-09-17 11:27:47.7688|Error|Datos.Comunes.FuncionesDatos|Error en 'GetReporteLogAccesoWeb': 'Parameter 'P_USU_RUT' not found in the collection.'|System.ArgumentException: Parameter 'P_USU_RUT' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.v1.Log.LogAccesoWebDatos.GetReporteLogAccesoWeb(Int32& operacion, String rutEmpresa, String buscador, String desde, String hasta, Int16 orden, Int16 orientacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Log\LogAccesoWebDatos.cs:línea 42
+2026-09-17 21:56:09.6283|Error|Datos.Comunes.FuncionesDatos|Error en 'GetReporteEmpresas': 'Parameter 'P_EMP_ESTADO' not found in the collection.'|System.ArgumentException: Parameter 'P_EMP_ESTADO' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.EmpresaDatos.GetReporteEmpresas(Int32& operacion, String buscador, Nullable`1 estado, Int16 orden, Int16 orientacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Empresa\EmpresaDatos.cs:línea 37
+2026-09-17 21:56:19.1472|Error|Datos.Comunes.FuncionesDatos|Error en 'GetReporteEmpresas': 'Parameter 'P_EMP_ESTADO' not found in the collection.'|System.ArgumentException: Parameter 'P_EMP_ESTADO' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior, CancellationToken cancellationToken)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en Datos.EmpresaDatos.GetReporteEmpresas(Int32& operacion, String buscador, Nullable`1 estado, Int16 orden, Int16 orientacion) en C:\Users\ggarrote\Documents\Proyecto Cedula Webb\cedulaweb.diprotec.cl\Datos\v1\Empresa\EmpresaDatos.cs:línea 37

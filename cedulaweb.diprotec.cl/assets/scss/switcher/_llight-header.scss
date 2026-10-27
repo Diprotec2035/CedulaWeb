@@ -1,0 +1,34 @@
+[data-header-style="light"] {
+    --header-bg: 255, 255, 255;
+
+    .main-header-right .nav-link.icon {
+        --color: #717f91;
+    }
+
+    .main-header-menu-icon span::before,
+    .main-header-menu-icon span::after {
+        --color: #717f91;
+    }
+
+    .main-header-menu-icon span {
+        --color: #717f91
+    }
+
+}
+
+[data-header-style="dark"],
+[data-header-style="color"],
+[data-header-style="gradient"] {
+    .main-header-right .nav-link.icon {
+        --color: #d7d9db;
+    }
+
+    .main-header-menu-icon span::before,
+    .main-header-menu-icon span::after {
+        --color: #d7d9db;
+    }
+
+    .main-header-menu-icon span {
+        --color: #d7d9db;
+    }
+}

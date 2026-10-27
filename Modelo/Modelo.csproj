@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.Build.Tasks.Git.10.0.401\build\Microsoft.Build.Tasks.Git.props" Condition="Exists('..\packages\Microsoft.Build.Tasks.Git.10.0.401\build\Microsoft.Build.Tasks.Git.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{63BC7104-A3DB-4F34-8CAD-D2F7D4EF2E2A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Modelo</RootNamespace>
+    <AssemblyName>Modelo</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.7.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="ExtendedNumerics.BigDecimal, Version=3003.2.0.161, Culture=neutral, PublicKeyToken=65f1315a45ad8949, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExtendedNumerics.BigDecimal.3003.2.0.161\lib\net472\ExtendedNumerics.BigDecimal.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.36.2.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.36.2\lib\netstandard2.0\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Numerics, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cd8b63ad3d691a37, processorArchitecture=MSIL">
+      <HintPath>..\packages\MathNet.Numerics.Signed.5.0.0\lib\net461\MathNet.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.6.1\lib\net462\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Hashing, Version=10.0.0.12, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Hashing.10.0.12\lib\net462\System.IO.Hashing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.6.3\lib\net462\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.6.1\lib\net462\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.1.2\lib\net462\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Comunes\CaptchaResponseModelo.cs" />
+    <Compile Include="Comunes\CategoriaViewModel.cs" />
+    <Compile Include="Comunes\ConstantesModelo.cs" />
+    <Compile Include="Comunes\IndicadorEconomicoModelo.cs" />
+    <Compile Include="Comunes\ListadoFiltroSesionModelo.cs" />
+    <Compile Include="Comunes\NoticiaModelo.cs" />
+    <Compile Include="Comunes\RespuestaModelo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="v1\AvisoPlataforma\AvisoPlataformaFiltroModelo.cs" />
+    <Compile Include="v1\AvisoPlataforma\AvisoPlataformaModelo.cs" />
+    <Compile Include="v1\BaseDatos\BaseDatosColumnaModelo.cs" />
+    <Compile Include="v1\BaseDatos\BaseDatosProcedimientoModelo.cs" />
+    <Compile Include="v1\BaseDatos\BaseDatosTablaModelo.cs" />
+    <Compile Include="v1\Bitacora\BitacoraModelo.cs" />
+    <Compile Include="v1\Categoria\CategoriaFiltroModelo.cs" />
+    <Compile Include="v1\Categoria\CategoriaModelo.cs" />
+    <Compile Include="v1\Dispositivo\DispositivoFiltroModelo.cs" />
+    <Compile Include="v1\Dispositivo\DispositivoModelo.cs" />
+    <Compile Include="v1\Dispositivo_Marcas\DispositivoMarcasFiltroModelo.cs" />
+    <Compile Include="v1\Dispositivo_Marcas\DispositivoMarcasModelo.cs" />
+    <Compile Include="v1\Dispositivo_Modelos\DispositivoModelosFiltroModelo.cs" />
+    <Compile Include="v1\Dispositivo_Modelos\DispositivoModelosModelo.cs" />
+    <Compile Include="v1\Empresa\EmpresaFiltroModelo.cs" />
+    <Compile Include="v1\Empresa\EmpresaModelo.cs" />
+    <Compile Include="v1\Empresa\EmpresaTokenCabeceraModelo.cs" />
+    <Compile Include="v1\Empresa\EmpresaTokenModelo.cs" />
+    <Compile Include="v1\Login\LoginModelo.cs" />
+    <Compile Include="v1\Log\LogAccesoDispositivoFiltroModulo.cs" />
+    <Compile Include="v1\Log\LogAccesoDispositivoModulo.cs" />
+    <Compile Include="v1\Log\LogAccesoWebFiltroModelo.cs" />
+    <Compile Include="v1\Log\LogAccesoWebModelo.cs" />
+    <Compile Include="v1\MFA\MFALoginPendienteModelo.cs" />
+    <Compile Include="v1\MFA\MFATotpConfirmacionModelo.cs" />
+    <Compile Include="v1\MFA\MFATotpEnrolamientoModelo.cs" />
+    <Compile Include="v1\MFA\MFATotpModelo.cs" />
+    <Compile Include="v1\ModuloPerfil\ModuloPerfilFiltroModelo.cs" />
+    <Compile Include="v1\ModuloPerfil\ModuloPerfilModelo.cs" />
+    <Compile Include="v1\ModuloPerfil\PermisoModuloUsuarioModelo.cs" />
+    <Compile Include="v1\Modulo\ModuloContextoModulo.cs" />
+    <Compile Include="v1\Modulo\ModuloFiltroModelo.cs" />
+    <Compile Include="v1\Modulo\ModuloModelo.cs" />
+    <Compile Include="v1\Modulo\ModuloNavegacionAccionModelo.cs" />
+    <Compile Include="v1\Modulo\ModuloNavegacionConfigModelo.cs" />
+    <Compile Include="v1\Modulo\ModuloNavegacionModelo.cs" />
+    <Compile Include="v1\Perfil\PerfilFiltroModelo.cs" />
+    <Compile Include="v1\Perfil\PerfilModelo.cs" />
+    <Compile Include="v1\Regla\ReglaFiltroModelo.cs" />
+    <Compile Include="v1\Regla\ReglaModelo.cs" />
+    <Compile Include="v1\ResetPassword\ResetPasswordModelo.cs" />
+    <Compile Include="v1\SuperAdmin\SuperAdminFiltroModelo.cs" />
+    <Compile Include="v1\SuperAdmin\SuperAdminModelo.cs" />
+    <Compile Include="v1\Usuario\EmpresaUsuarioFiltroModelo.cs" />
+    <Compile Include="v1\Usuario\EmpresaUsuarioModelo.cs" />
+    <Compile Include="v1\VersionAplicacion\VersionAplicacionFiltroModelo.cs" />
+    <Compile Include="v1\VersionAplicacion\VersionAplicacionModelo.cs" />
+    <Compile Include="v1\Visitas\EmpresaVisitaCargaDetalleFiltroModelo.cs" />
+    <Compile Include="v1\Visitas\EmpresaVisitaCargaDetalleModelo.cs" />
+    <Compile Include="v1\Visitas\EmpresaVisitaCargaFiltroModelo.cs" />
+    <Compile Include="v1\Visitas\EmpresaVisitaCargaModelo.cs" />
+    <Compile Include="v1\Visitas\EmpresaVisitaFiltroModelo.cs" />
+    <Compile Include="v1\Visitas\EmpresaVisitaModelo.cs" />
+    <Compile Include="v1\Visitas\RegistroVisitaFiltroModelo.cs" />
+    <Compile Include="v1\Visitas\RegistroVisitaModelo.cs" />
+    <Compile Include="v1\Visitas\ReporteRegistroVisitaModelo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Build.Tasks.Git.10.0.401\build\Microsoft.Build.Tasks.Git.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Build.Tasks.Git.10.0.401\build\Microsoft.Build.Tasks.Git.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.Build.Tasks.Git.10.0.401\build\Microsoft.Build.Tasks.Git.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Build.Tasks.Git.10.0.401\build\Microsoft.Build.Tasks.Git.targets'))" />
+    <Error Condition="!Exists('..\packages\System.ValueTuple.4.6.2\build\net471\System.ValueTuple.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.ValueTuple.4.6.2\build\net471\System.ValueTuple.targets'))" />
+  </Target>
+  <Import Project="..\packages\Microsoft.Build.Tasks.Git.10.0.401\build\Microsoft.Build.Tasks.Git.targets" Condition="Exists('..\packages\Microsoft.Build.Tasks.Git.10.0.401\build\Microsoft.Build.Tasks.Git.targets')" />
+  <Import Project="..\packages\System.ValueTuple.4.6.2\build\net471\System.ValueTuple.targets" Condition="Exists('..\packages\System.ValueTuple.4.6.2\build\net471\System.ValueTuple.targets')" />
+</Project>

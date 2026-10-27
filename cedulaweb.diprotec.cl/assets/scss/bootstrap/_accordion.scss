@@ -1,0 +1,212 @@
+/*---  Accordion  ---*/
+
+.accordion {
+  > .card {
+    overflow: hidden;
+
+    &:not(:first-of-type) {
+
+      &:not(:last-of-type) {
+        border-block-end: 0;
+      }
+    }
+
+    &:first-of-type {
+      border-block-end: 0;
+    }
+
+    .card-header {
+      margin-block-end: -7px;
+    }
+  }
+
+  .card {
+    border-width: 0;
+
+    + .card {
+      margin-block-start: 1px;
+    }
+  }
+
+  .card-header {
+    padding: 0;
+    background-color: transparent;
+    font-weight: 500;
+    display:block;
+
+    a {
+      display: block;
+      padding: 14px 20px;
+      border: 1px solid $border;
+      color: $color;
+      position: relative;
+      font-weight: 500;
+      font-size: 14px;
+      background-color: $bg-gray-200;
+      border-start-start-radius: 7px;
+      border-start-end-radius: 7px;
+
+      &:hover, &:focus {
+        color: $color;
+      }
+
+      &.collapsed {
+        color: $color;
+        background-color: $bg-gray-200;
+        border-block-end-color: transparent;
+
+        &:hover, &:focus {
+          color: $color;
+          background-color:$border;
+        }
+      }
+    }
+  }
+
+  .card-body {
+    padding: 15px;
+    background-color: rgb(var(--white));
+    transition: none;
+    border: 1px solid $border;
+    border-end-start-radius: 7px;
+    border-end-end-radius: 7px;
+  }
+}
+.accordionjs {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-block-start: 10px;
+    margin-block-end: 20px;
+
+    .acc_section {
+        border: 1px solid $border;
+        position: relative;
+        z-index: 1;
+        margin-block-start: -1px;
+        overflow: hidden;
+
+        .acc_head {
+            position: relative;
+            background: $background;
+            padding: 10px;
+            display: block;
+            cursor: pointer;
+
+            h3 {
+                line-height: 1;
+                margin: 5px;
+                font-size: 14px;
+                padding-inline-start: 25px;
+            }
+        }
+
+        .acc_content {
+            padding: 10px;
+        }
+
+        &:first-of-type {
+            border-start-start-radius: 5px;
+            border-start-end-radius: 5px;
+
+            .acc_head {
+                border-start-start-radius: 5px;
+                border-start-end-radius: 5px;
+            }
+        }
+
+        &:last-of-type {
+            border-end-start-radius: 5px;
+            border-end-end-radius: 5px;
+
+            .acc_content {
+                border-end-start-radius: 5px;
+                border-end-end-radius: 5px;
+            }
+        }
+
+        &.acc_active {
+            > {
+                .acc_content {
+                    display: block;
+                }
+
+                .acc_head {
+                    border-block-end: 1px solid $border;
+                    color: #fff;
+                }
+            }
+
+            .acc_head h3:before {
+                content: "\e995";
+                position: absolute;
+                font-family: "feather" !important;
+                inset-inline-start: 13px;
+                color: #fff;
+                inset-block-start: 14px;
+                font-size: 15px;
+                transition: all 0.5s;
+                transform: scale(1);
+            }
+        }
+
+        .acc_head h3:before {
+            content: "\e9b0";
+            position: absolute;
+            font-family: "feather" !important;
+            inset-inline-start: 12px;
+            inset-block-start: 14px;
+            font-size: 15px;
+            transition: all 0.5s;
+            transform: scale(1);
+        }
+    }
+}
+#accordion .panel-default>.panel-heading {
+  border: 0px solid $border;
+}
+.accordion-button:not(.collapsed) {
+  color: $primary;
+  box-shadow: none;
+  background: $background;
+}
+.accordionjs .acc_section.acc_active>.acc_head {
+  background: $primary;
+  color: #fff !important;
+}
+.panel-title1 a {
+  background: $primary !important;
+}
+.panel-heading1 a.active {
+  border-start-start-radius: 5px;
+  border-start-end-radius: 5px;
+  border-end-end-radius: 0px;
+  border-end-start-radius: 0px;
+}
+.accordion-button:not(.collapsed)::after {
+  background-image: none;
+  margin-inline-end: 5px;
+}
+.accordion-button::after {
+  background-image: none;
+  content: "\e92d" !important;
+  font-family: feather !important;
+}
+.accordion-button::after {
+  flex-shrink: 0;
+  width: 1.25rem;
+  height: 1.25rem;
+  margin-inline-start: auto;
+  content: "";
+  background-size: 1.25rem;
+  transition: transform .2s ease-in-out;
+}
+.accordion-button:focus {
+  z-index: 3;
+  border-color: $border;
+  outline: 0;
+  box-shadow:none;
+}
+
+/*---  Accordion  ---*/

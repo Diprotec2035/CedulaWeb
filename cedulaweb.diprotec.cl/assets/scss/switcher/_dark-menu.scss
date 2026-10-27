@@ -1,0 +1,186 @@
+/*-- Dark-menu --*/
+
+[data-menu-style="dark"] {
+    .app-sidebar {
+        --menu-bg: 28, 28, 56;
+        --border: rgba(255, 255, 255, 0.1);
+        --color: #dde5ed;
+        --background: rgba(255, 255, 255, 0.05);
+        box-shadow: none;
+    }
+
+    .sidebar-mini.sidenav-toggled.show-sidenav .side-menu__item.help-support {
+        display: flex; 
+        text-align: start;
+    }
+
+    .app-sidebar__header {
+        background: $sidemenu-bg;
+    }
+    
+    .responsive-logo .main-logo .desktop-logo {
+        display: none;
+
+        &.desktop-logo-dark {
+            display: block;
+        }
+    }
+
+    .desktop-logo {
+        display: block !important;
+    }
+    
+    .mobile-logo, .desktop-logo-dark {
+            display: none !important;
+    }
+
+    .slide-right, .slide-left {
+        svg {
+            fill: $color;
+            color: $color;
+        }
+    }
+    @media (min-width: 992px) {
+        .sidebar-mini.sidenav-toggled .desktop-logo {
+             display: none !important
+    }}
+    @media (min-width: 992px) {
+        &[data-vertical-style="hover"],
+        &[data-vertical-style="hover1"] {
+            @media (min-width: 992px) {
+                .app.show-sidenav .app-sidebar__header {
+
+                    .desktop-logo {
+                        display: none !important;
+                    }
+
+                    .mobile-logo {
+                        display: block !important;
+                    }
+
+                    .mobile-logo-dark {
+                        display: none !important;
+                    }
+                }
+            }
+        }
+
+        &[data-vertical-style="doublemenu"],
+        &[data-vertical-style="doublemenu-tabs"] {
+            @media (min-width: 992px) {
+            .app-sidebar__header {
+
+                    .desktop-logo {
+                        display: none !important;
+                    }
+
+                    .mobile-logo {
+                        display: block !important;
+                    }
+
+                    .mobile-logo-dark {
+                        display: none !important;
+                    }
+                }
+            }
+        }
+    }
+
+    .side-menu__icon {
+        border-color: #{$border};
+    }
+
+    @media (min-width: 992px) {
+        .sidebar-mini.sidenav-toggled {
+            .mobile-logo {
+                display: block !important;
+      
+                &.mobile-logo-dark {
+                display: none !important;
+                }
+            }
+      
+            &.show-sidenav {
+                .desktop-logo {
+                    display: block !important;
+      
+                    &.desktop-logo-dark {
+                        display: none !important;
+                    }
+                }
+      
+                .mobile-logo {
+                    display: none !important;
+                }
+            }
+        }
+    }
+
+    .app-sidebar__user {
+        color: #fff;
+    }
+
+    .ps__rail-y.ps--clicking .ps__thumb-y {
+        background-color: rgba($color: #fff, $alpha: 0.3);
+    }
+
+    .ps .ps__rail-y.ps--clicking {
+        background-color: transparent;
+    }
+
+    .ps .ps__rail-y {
+        &:hover, &:focus {
+            background-color: transparent;
+        }
+    }
+
+    .ps__thumb-y {
+        background-color: #404353;
+    }
+
+    @media (min-width: 992px) {
+        &[data-vertical-style=hover1],
+        &[data-vertical-style=doublemenu],
+        &[data-vertical-style=doublemenu-tabs] {
+            .app .side-menu__label1 a {
+                color: #fff !important;
+            }
+        } 
+        &[data-vertical-style="doublemenu-tabs"] {
+            .sidetab-menu {
+                --muted: #828b9d;
+                --white: #191d25;
+                --gray-100: rgba(255, 255, 255, 0.2);
+                --gray-200: #17171c;
+                --gray-300: #393946;
+                --gray-800: #c7c7d1;
+                --color: #dde5ed;
+                --form-border: rgba(255, 255, 255, 0.1);
+            }
+        }
+    }
+
+    @media (min-width: 992px) {
+        &[data-vertical-style=doublemenu-tabs] .app .slide-menu .sidetab-menu .panel-tabs li a {
+            &.active, &:hover {
+                background: $menu-primary;
+                border: 1px solid $menu-primary;
+            }
+        }
+    }
+    
+    .sidetab-menu {
+        .menutabs-content,
+        .tab-menu-heading {
+            color: #fff;
+        }
+    }
+    .tab-pane h5 {
+        color: $color;
+    }
+    .tab-pane .item-activity p {
+        color: $color;
+    }
+}
+
+/*-- Dark-menu --*/
