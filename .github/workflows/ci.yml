@@ -1,0 +1,93 @@
+name: CI
+
+# Se ejecuta en cada push a main y en cada Pull Request hacia main
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+# Cancela ejecuciones anteriores de la misma rama/PR si llega un commit nuevo
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  SOLUTION: cedulaweb.diprotec.cl.sln
+  CONFIGURATION: Release
+
+jobs:
+  build:
+    name: Build y validacion
+    runs-on: windows-latest   # .NET Framework necesita Windows
+
+    steps:
+      - name: Descargar codigo
+        uses: actions/checkout@v4
+
+      - name: Instalar MSBuild
+        uses: microsoft/setup-msbuild@v2
+
+      - name: Instalar NuGet
+        uses: NuGet/setup-nuget@v2
+
+      - name: Cache de paquetes NuGet
+        uses: actions/cache@v4
+        with:
+          path: ~\.nuget\packages
+          key: nuget-${{ runner.os }}-${{ hashFiles('**/packages.config', '**/*.csproj') }}
+          restore-keys: nuget-${{ runner.os }}-
+
+      - name: Restaurar paquetes NuGet
+        run: nuget restore ${{ env.SOLUTION }}
+
+      - name: Compilar solucion
+        run: >
+          msbuild ${{ env.SOLUTION }}
+          /p:Configuration=${{ env.CONFIGURATION }}
+          /p:Platform="Any CPU"
+          /m /v:minimal /nologo
+
+      # Ejecuta pruebas solo si existe algun proyecto de tests (hoy no hay)
+      - name: Ejecutar pruebas (si existen)
+        shell: pwsh
+        run: |
+          $tests = Get-ChildItem -Recurse -Filter *.csproj | Where-Object { $_.Name -match 'Test' }
+          if ($tests) {
+            dotnet test ${{ env.SOLUTION }} -c ${{ env.CONFIGURATION }} --no-build --verbosity minimal
+          } else {
+            Write-Host "No hay proyectos de pruebas; se omite este paso."
+          }
+
+  # Opcional: genera el paquete publicable del sitio web (solo en main)
+  publish:
+    name: Generar paquete web
+    needs: build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: microsoft/setup-msbuild@v2
+      - uses: NuGet/setup-nuget@v2
+
+      - name: Restaurar paquetes NuGet
+        run: nuget restore ${{ env.SOLUTION }}
+
+      - name: Publicar sitio a carpeta local
+        run: >
+          msbuild cedulaweb.diprotec.cl\cedulaweb.diprotec.cl.csproj
+          /p:Configuration=${{ env.CONFIGURATION }}
+          /p:DeployOnBuild=true
+          /p:WebPublishMethod=FileSystem
+          /p:PublishUrl="${{ github.workspace }}\publish"
+          /p:Platform="AnyCPU"
+          /v:minimal /nologo
+
+      - name: Subir artefacto
+        uses: actions/upload-artifact@v4
+        with:
+          name: cedulaweb-publish
+          path: publish/
+          retention-days: 14
